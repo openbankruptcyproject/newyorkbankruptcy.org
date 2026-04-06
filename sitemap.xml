@@ -18,4 +18,15 @@
   <url><loc>https://newyorkbankruptcy.org/counties/westchester-county.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://newyorkbankruptcy.org/district-lookup.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://newyorkbankruptcy.org/legal-aid.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://newyorkbankruptcy.org/cities/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://newyorkbankruptcy.org/cities/brooklyn.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://newyorkbankruptcy.org/cities/queens.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://newyorkbankruptcy.org/cities/bronx.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://newyorkbankruptcy.org/cities/staten-island.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://newyorkbankruptcy.org/cities/yonkers.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://newyorkbankruptcy.org/cities/new-rochelle.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://newyorkbankruptcy.org/cities/mount-vernon.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://newyorkbankruptcy.org/cities/white-plains.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://newyorkbankruptcy.org/cities/hempstead.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://newyorkbankruptcy.org/cities/freeport.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
