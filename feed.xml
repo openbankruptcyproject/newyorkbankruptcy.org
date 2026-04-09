@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>newyorkbankruptcy.org -- Bankruptcy Information</title>
+  <subtitle>Free bankruptcy information and guides from the Open Bankruptcy Project</subtitle>
+  <link href="https://newyorkbankruptcy.org/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://newyorkbankruptcy.org/" rel="alternate" type="text/html"/>
+  <id>https://newyorkbankruptcy.org/</id>
+  <updated>2026-04-08T00:00:00Z</updated>
+  <author>
+    <name>Open Bankruptcy Project</name>
+    <uri>https://openbankruptcyproject.org</uri>
+  </author>
+  <rights>Copyright 2026 Open Bankruptcy Project</rights>
+  <entry>
+    <title>New York Bankruptcy -- Chapter 7 &amp; 13 Filing Guide [2026]</title>
+    <link href="https://newyorkbankruptcy.org/" rel="alternate"/>
+    <id>https://newyorkbankruptcy.org/</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Free New York bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>341 Meeting of Creditors in New York -- What to Expect</title>
+    <link href="https://newyorkbankruptcy.org/341-meeting.html" rel="alternate"/>
+    <id>https://newyorkbankruptcy.org/341-meeting.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>What happens at the 341 meeting of creditors in New York? What questions the trustee asks, what documents to bring, how long it lasts, and tips for S.D.N.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Automatic Stay in New York Bankruptcy -- Stop Collections, Garnishments, Foreclosure</title>
+    <link href="https://newyorkbankruptcy.org/automatic-stay.html" rel="alternate"/>
+    <id>https://newyorkbankruptcy.org/automatic-stay.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>The automatic stay stops creditor actions the moment you file bankruptcy in New York.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Bank Accounts and Bankruptcy in New York</title>
+    <link href="https://newyorkbankruptcy.org/bank-account.html" rel="alternate"/>
+    <id>https://newyorkbankruptcy.org/bank-account.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>What happens to your bank account when you file bankruptcy in New York? Exemptions, frozen accounts, direct deposits, and protecting your money in S.D.N.Y.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Can I Buy a Car While in Chapter 13? -- Newyorkbk</title>
+    <link href="https://newyorkbankruptcy.org/buy-car-chapter-13.html" rel="alternate"/>
+    <id>https://newyorkbankruptcy.org/buy-car-chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>You need trustee approval and a court motion to purchase a vehicle during Chapter 13. [Newyorkbk ]</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Buying a House After Bankruptcy in New York</title>
+    <link href="https://newyorkbankruptcy.org/buying-a-house.html" rel="alternate"/>
+    <id>https://newyorkbankruptcy.org/buying-a-house.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>When can you buy a house after bankruptcy in New York? FHA, VA, conventional loan waiting periods, credit rebuilding, and New York housing market.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Car Leases and Bankruptcy -- Newyorkbk</title>
+    <link href="https://newyorkbankruptcy.org/car-lease.html" rel="alternate"/>
+    <id>https://newyorkbankruptcy.org/car-lease.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>You have 60 days after filing to decide whether to assume (keep) or reject (surrender) your car lease. [Newyorkbk ]</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Eligibility in New York</title>
+    <link href="https://newyorkbankruptcy.org/chapter-13-eligibility.html" rel="alternate"/>
+    <id>https://newyorkbankruptcy.org/chapter-13-eligibility.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Chapter 13 eligibility requirements for New York filers. Debt limits, regular income requirement, prior filing restrictions, and S.D.N.Y. specifics.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Payments in New York</title>
+    <link href="https://newyorkbankruptcy.org/chapter-13-payments.html" rel="alternate"/>
+    <id>https://newyorkbankruptcy.org/chapter-13-payments.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How Chapter 13 plan payments work in New York. Payment amounts, what gets paid, trustee fees, modifying payments, and what happens if you miss one.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Bankruptcy in New York -- Payment Plans, Dismissal Rates, Timeline</title>
+    <link href="https://newyorkbankruptcy.org/chapter-13.html" rel="alternate"/>
+    <id>https://newyorkbankruptcy.org/chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Guide to Chapter 13 bankruptcy in New York. Payment plan basics, S.D.N.Y. dismissal rate (59.0%), timeline, and what to expect.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+</feed>
