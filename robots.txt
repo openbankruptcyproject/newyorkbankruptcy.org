@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://newyorkbankruptcy.org/sitemap.xml
 
-Sitemap: https://newyorkbankruptcy.org/feed.xml
+
+Sitemap: https://newyorkbankruptcy.org/sitemapindex.xml
