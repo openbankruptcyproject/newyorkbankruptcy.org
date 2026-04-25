@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Small Business Bankruptcy in New York - Chapter 7, 11, and Subchapter V</title>
+<meta content="Small business bankruptcy options in New York including Chapter 7 liquidation, Chapter 11 reorganization, and Subchapter V for small business..." name="description"/>
+<link href="favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="https://newyorkbankruptcy.org/small-business.html" rel="canonical"/>
+<!-- BTN:GA4:START -->
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-053Z64N82F');gtag('config','G-FTWLM223G7');</script>
+<!-- BTN:GA4:END -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {"@type":"Question","name":"What are the bankruptcy options for small businesses in New York?","acceptedAnswer":{"@type":"Answer","text":"Small businesses in New York can file Chapter 7 (liquidation to close the business), Chapter 11 (reorganization to continue operating), or Subchapter V of Chapter 11 (streamlined reorganization for businesses with under $7.5 million in noncontingent, liquidated debt). Sole proprietors may also consider Chapter 13 for businesses with personal liability."}},
+    {"@type":"Question","name":"What is Subchapter V bankruptcy?","acceptedAnswer":{"@type":"Answer","text":"Subchapter V is a streamlined version of Chapter 11 created by the Small Business Reorganization Act of 2019. It is available to businesses (and individuals with business debts) with total noncontingent, liquidated debts under $7.5 million. It is faster, cheaper, and simpler than traditional Chapter 11 - no creditors committee, no disclosure statement, and the debtor keeps ownership without creditor consent."}},
+    {"@type":"Question","name":"Can I keep my business open during bankruptcy?","acceptedAnswer":{"@type":"Answer","text":"In Chapter 11 and Subchapter V, yes. The business continues operating as a debtor-in-possession while reorganizing its debts. In Chapter 7, the business typically closes and its assets are liquidated to pay creditors. The automatic stay protects the business from creditor actions during the case."}},
+    {"@type":"Question","name":"How much does small business bankruptcy cost in New York?","acceptedAnswer":{"@type":"Answer","text":"Chapter 7 business filing fee is $338. Chapter 11 filing fee is $1,738 (reduced to $571 for Subchapter V). Attorney fees for Chapter 11 in New York typically range from $15,000 to $50,000+ depending on complexity. Subchapter V cases generally cost less because of the streamlined process."}}
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Small Business Bankruptcy in New York",
+      "description": "Guide to small business bankruptcy options in New York including Chapter 7, 11, and Subchapter V.",
+      "author": {"@type": "Organization", "name": "Open Bankruptcy Project"},
+      "publisher": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org"},
+      "datePublished": "2026-04-05",
+      "dateModified": "2026-04-05",
+      "mainEntityOfPage": "https://newyorkbankruptcy.org/small-business.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://newyorkbankruptcy.org"},
+        {"@type": "ListItem", "position": 2, "name": "Small Business", "item": "https://newyorkbankruptcy.org/small-business.html"}
+      ]
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "name": "Small Business Bankruptcy in New York",
+      "url": "https://newyorkbankruptcy.org/small-business.html",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".quick-answer",
+          "h1",
+          ".summary",
+          "p:first-of-type"
+        ]
+      }
+    }
+  ]
+}
+</script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;line-height:1.6}
+a{color:#58a6ff;text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
+nav{background:#161b22;border-bottom:1px solid #30363d;padding:12px 0;position:sticky;top:0;z-index:100}
+nav .container{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+nav .brand{color:#f0f6fc;font-weight:700;font-size:1.1rem}
+nav .links{display:flex;gap:16px;flex-wrap:wrap}
+nav .links a{color:#8b949e;font-size:0.9rem}nav .links a:hover{color:#58a6ff}
+.hero{padding:60px 0 40px;text-align:center;border-bottom:1px solid #30363d}
+.hero h1{color:#f0f6fc;font-size:2.4rem;margin-bottom:12px}
+.hero .subtitle{color:#8b949e;font-size:1.15rem;max-width:700px;margin:0 auto 24px}
+section{padding:40px 0;border-bottom:1px solid #21262d}
+h2{color:#f0f6fc;font-size:1.8rem;margin-bottom:16px}
+h3{color:#f0f6fc;font-size:1.3rem;margin-bottom:12px}
+p{margin-bottom:16px}
+.card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin-bottom:20px}
+.faq-item{background:#161b22;border:1px solid #30363d;border-radius:8px;margin-bottom:12px;overflow:hidden}
+.faq-item summary{padding:16px 20px;cursor:pointer;color:#f0f6fc;font-weight:600;list-style:none;display:flex;justify-content:space-between;align-items:center}
+.faq-item summary::after{content:"+";color:#58a6ff;font-size:1.3rem;font-weight:700}
+.faq-item[open] summary::after{content:"-"}
+.faq-item .answer{padding:0 20px 16px;color:#c9d1d9}
+.network{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin:32px 0}
+.network h3{margin-bottom:12px}
+.network-links{display:flex;flex-wrap:wrap;gap:8px}
+.network-links a{background:#21262d;padding:6px 14px;border-radius:16px;font-size:0.85rem;border:1px solid #30363d}
+.network-links a:hover{border-color:#58a6ff;background:#161b22}
+footer{background:#161b22;border-top:1px solid #30363d;padding:32px 0;text-align:center;color:#8b949e;font-size:0.85rem}
+footer a{color:#58a6ff}footer p{margin-bottom:8px}
+.cta{display:inline-block;background:#238636;color:#fff;padding:12px 28px;border-radius:6px;font-weight:600;margin-top:12px;font-size:1rem}
+.cta:hover{background:#2ea043;text-decoration:none}
+ul,ol{margin:12px 0 12px 24px}li{margin-bottom:6px}
+table{width:100%;border-collapse:collapse;margin:16px 0}
+th,td{padding:10px 14px;text-align:left;border-bottom:1px solid #30363d}
+th{color:#f0f6fc;background:#161b22;font-weight:600}
+td{color:#c9d1d9}
+@media(max-width:768px){.hero h1{font-size:1.7rem}}
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+<link href="https://newyorkbankruptcy.org/small-business.html" hreflang="en" rel="alternate"/>
+<link href="https://newyorkbankruptcy.org/small-business-es.html" hreflang="es" rel="alternate"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Newyork Bankruptcy Information",
+  "description": "Free bankruptcy information and resources for Newyork residents.",
+  "url": "https://newyorkbankruptcy.org/",
+  "areaServed": {
+    "@type": "City",
+    "name": "Newyork"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "Open Bankruptcy Project",
+    "url": "https://openbankruptcyproject.org"
+  },
+  "serviceType": "Bankruptcy Information",
+  "isAccessibleForFree": true
+}
+</script>
+<meta content="https://newyorkbankruptcy.org/og-image.svg" property="og:image"/>
+<meta content="https://newyorkbankruptcy.org/og-image.svg" name="twitter:image"/>
+</head>
+<body>
+<nav><div class="container"><a class="brand" href="/">New York Bankruptcy Guide</a><div class="links"><a href="/">Home</a><a href="chapter-7.html">Chapter 7</a><a href="chapter-13.html">Chapter 13</a><a href="exemptions.html">Exemptions</a><a href="cost.html">Cost</a><a href="counties.html">Counties</a><a href="faq.html">FAQ</a><a href="https://openbankruptcyproject.org">OBP</a></div></div></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://newyorkbankruptcy.org">Home</a><span class="separator">›</span><span>Small Business</span></nav>
+<div class="hero"><div class="container">
+<h1>Small Business Bankruptcy in New York</h1>
+<p class="subtitle">New York small businesses have several bankruptcy options depending on whether the goal is to close the business or reorganize and continue operating. <a href="https://section1191.org/" title="Subchapter V">Subchapter V</a> has made reorganization faster and more affordable.</p>
+</div></div>
+<section><div class="container">
+<h2>Bankruptcy Options for Small Businesses</h2>
+<div class="card">
+<table>
+<tr><th>Option</th><th>Purpose</th><th>Debt Limit</th><th>Filing Fee</th></tr>
+<tr><td><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a></td><td>Liquidate and close</td><td>No limit</td><td>$338</td></tr>
+<tr><td>Chapter 11</td><td>Reorganize</td><td>No limit</td><td>$1,738</td></tr>
+<tr><td>Subchapter V</td><td>Streamlined reorganization</td><td>$7.5 million</td><td>$571</td></tr>
+<tr><td><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> (sole proprietors)</td><td>Personal + business debts</td><td>No limit (post-2024)</td><td>$313</td></tr>
+</table>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Subchapter V - Small Business Reorganization</h2>
+<div class="card">
+<p>Subchapter V of Chapter 11, created by the Small Business Reorganization Act of 2019, is specifically designed for small businesses:</p>
+<ul>
+<li><strong>Debt limit:</strong> Total noncontingent, liquidated debts under $7.5 million (at least 50% from business activity)</li>
+<li><strong>No creditors committee:</strong> Reduces cost and complexity</li>
+<li><strong>No disclosure statement:</strong> The plan goes directly to the court for confirmation</li>
+<li><strong>Debtor keeps ownership:</strong> No requirement for creditor consent to confirm the plan (<a href="https://section1192.org/" title="cramdown">cramdown</a> available without the absolute priority rule)</li>
+<li><strong>Dedicated Sub V trustee:</strong> Facilitates the process (but does not take control of the business)</li>
+<li><strong>90-day plan deadline:</strong> The plan must be filed within 90 days of the petition date</li>
+<li><strong>3-5 year plan:</strong> Disposable income is paid to creditors over 3-5 years</li>
+</ul>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Chapter 7 Business Liquidation</h2>
+<div class="card">
+<p>If the business cannot be saved, <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> liquidation provides an orderly wind-down:</p>
+<ul>
+<li>A trustee takes control of business assets and sells them to pay creditors</li>
+<li>The business ceases operations</li>
+<li>For sole proprietors, personal liability for business debts can be discharged</li>
+<li>LLCs and corporations do not receive a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> - they simply cease to exist</li>
+<li>Personal guarantees on business debts may need to be addressed in a separate personal filing</li>
+</ul>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Sole Proprietors: Personal and Business Debts</h2>
+<div class="card">
+<p>If you operate as a sole proprietor (no LLC or corporate structure), your personal and business debts are intertwined. Options include:</p>
+<ul>
+<li><strong>Chapter 7:</strong> Eliminates personal liability for business debts. The business closes, but you get a <a href="https://bankruptcyfreshstart.org" rel="noopener" target="_blank" title="Fresh Start After Bankruptcy - Open Bankruptcy Project">fresh start</a>.</li>
+<li><strong><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>:</strong> Keep operating your business while repaying debts over 3-5 years. Good for sole proprietors who want to continue the business.</li>
+<li><strong>Subchapter V:</strong> Available to individuals with business debts comprising at least 50% of total debt.</li>
+</ul>
+<p>New York <a href="exemptions.html">exemptions</a> protect tools of trade up to $3,000, which can include business equipment for sole proprietors.</p>
+</div>
+</div></section>
+<section><div class="container">
+<h2>S.D.N.Y. Business Bankruptcy Courthouses</h2>
+<div class="card">
+<ul>
+<li><strong>Manhattan:</strong> One Bowling Green, New York, NY 10004</li>
+<li><strong>White Plains:</strong> 300 Quarropas St, White Plains, NY 10601</li>
+</ul>
+<p>The Southern District of New York handles some of the most complex business bankruptcies in the nation. For small business cases, Subchapter V has significantly reduced the cost and time required. <a href="district-lookup.html">Look up your district</a>.</p>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Frequently Asked Questions</h2>
+<details class="faq-item"><summary>What are the bankruptcy options for small businesses in New York?</summary><div class="answer"><p>Chapter 7 (liquidation to close), Chapter 11 (reorganization), Subchapter V (streamlined reorganization for debts under $7.5M), and Chapter 13 for sole proprietors. The best option depends on whether you want to continue operating.</p></div></details>
+<details class="faq-item"><summary>What is Subchapter V bankruptcy?</summary><div class="answer"><p>A streamlined Chapter 11 for businesses with under $7.5M in debt. No creditors committee, no disclosure statement, the debtor keeps ownership, and the plan must be filed within 90 days. It is faster and cheaper than traditional Chapter 11.</p></div></details>
+<details class="faq-item"><summary>Can I keep my business open during bankruptcy?</summary><div class="answer"><p>Yes, in Chapter 11 and Subchapter V. The business operates as a <a href="https://section1191.org/" title="debtor in possession">debtor-in-possession</a> while reorganizing. In Chapter 7, the business typically closes. The <a href="automatic-stay.html">automatic stay</a> protects the business during the case.</p></div></details>
+<details class="faq-item"><summary>How much does small business <a href="https://howmuchdoesbankruptcycost.com/" title="bankruptcy cost">bankruptcy cost</a>?</summary><div class="answer"><p>Filing fees: Chapter 7 ($338), Chapter 11 ($1,738), Subchapter V ($571). Attorney fees for Chapter 11 in New York typically range from $15,000-$50,000+. Subchapter V cases generally cost less. <a href="cost.html">Cost breakdown</a>.</p></div></details>
+</div></section>
+<div class="container">
+<div style="text-align:center;padding:40px 0">
+<h2>Check Your Eligibility</h2>
+<p>Use the free <a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a> screener to check whether a prior <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> affects your eligibility.</p>
+<a class="cta" href="https://1328f.com">Free Discharge Screener</a>
+</div>
+<div class="network">
+<h3>Related Topics</h3>
+<div class="network-links">
+<a href="chapter-7.html">Chapter 7</a>
+<a href="chapter-13.html">Chapter 13</a>
+<a href="tax-debt.html">Tax Debt</a>
+<a href="exemptions.html">Exemptions</a>
+<a href="automatic-stay.html">Automatic Stay</a>
+<a href="cost.html">Bankruptcy Cost</a>
+</div>
+</div>
+<div class="network">
+<h3>Open Bankruptcy Project Network</h3>
+<div class="network-links">
+<a href="https://openbankruptcyproject.org">OBP Home</a>
+<a href="https://1328f.com">1328(f) Screener</a>
+<a href="https://chapter7vs13.org">Ch. 7 vs 13</a>
+<a href="https://automaticstay.org">Automatic Stay</a>
+<a href="https://bankruptcymeanstest.org">Means Test</a>
+<a href="https://howmuchdoesbankruptcycost.com">Cost Guide</a>
+<a href="https://howtofilebankruptcy.org">How to File</a>
+</div>
+</div>
+</div>
+<!-- Related New York Bankruptcy Resources -->
+<div style="max-width:900px;margin:2rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">Related New York Bankruptcy Resources</p>
+<ul style="list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:0.5rem">
+<li><a href="/" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">New York Bankruptcy Guide</a></li>
+<li><a href="/chapter-7.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Chapter 7 in New York</a></li>
+<li><a href="/chapter-13.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Chapter 13 in New York</a></li>
+<li><a href="/means-test.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">New York Means Test</a></li>
+<li><a href="/exemptions.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">New York Exemptions</a></li>
+<li><a href="/cost.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Bankruptcy Cost in New York</a></li>
+</ul>
+</div>
+<!-- BTN:FOOTER:START -->
+<footer>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<div class="container">
+<p>An <a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a> resource</p>
+<p>Data sourced from the <a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a> Integrated Database (2008--2024).</p>
+<p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
+<p>© 2026 Open Bankruptcy Project. <a href="https://github.com/openbankruptcyproject">GitHub</a></p>
+</div></footer>
+<!-- BTN:FOOTER:END -->
+<script defer="" src="/btn-engage.js"></script>
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=newyorkbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=newyorkbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=newyorkbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
+</ul>
+</div>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>
