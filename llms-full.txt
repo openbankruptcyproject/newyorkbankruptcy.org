@@ -376,7 +376,7 @@ What Happens to Your Bank Account
 
 When you file bankruptcy, cash in your bank account on the petition date becomes property of the estate. The trustee will review your bank statements. However, you can protect funds with exemptions:
 
-Federal wildcard: $1,475 per person, plus up to $13,950 of unused homestead exemption (if you do not own a home, this is very valuable)
+Federal wildcard: $1,675 per person, plus up to $15,800 of unused homestead exemption (if you do not own a home, this is very valuable)
 
 New York cash exemption: Limited, which is why many non-homeowners choose federal exemptions
 
@@ -752,7 +752,7 @@ Core Requirements
 
 Regular income. You must have income sufficiently stable and regular to make monthly plan payments. W-2 employment, self-employment, Social Security, disability, pension, rental income, and regular family support all count.
 
-Debt limits. Your total debts (secured + unsecured combined) must be under $2,750,000. If your debts exceed this limit, Chapter 11 may be an option.
+Debt limits. Your noncontingent, liquidated unsecured debts must be under $526,700 and your secured debts under $1,580,125 (adjusted every three years, most recently April 1, 2025). If your debts exceed either limit, Chapter 11 may be an option.
 
 Credit counseling. You must complete an approved credit counseling course within 180 days before filing.
 
@@ -798,7 +798,7 @@ Frequently Asked Questions
 
 What are the debt limits for Chapter 13?
 
-The combined debt limit is $2,750,000 (secured and unsecured combined). If your debts exceed this, consider Chapter 11.
+There are two separate limits: unsecured debts must be less than $526,700 and secured debts less than $1,580,125 (adjusted April 1, 2025, and every three years). From June 2022 to June 21, 2024, a temporary law combined these into a single $2,750,000 limit; that provision expired. If your debts exceed either limit, consider Chapter 11.
 
 Do I need a job to file Chapter 13?
 
@@ -1229,7 +1229,7 @@ Vehicle: $4,825
 
 Personal property: Various limits for clothing, furniture, tools of trade
 
-The federal exemption set has a homestead of $27,900 (individual) but offers a more generous wildcard exemption ($1,475 + up to $13,950 of unused homestead). If you do not own a home, federal exemptions may protect more of your other property.
+The federal exemption set has a homestead of $31,575 (individual) but offers a more generous wildcard exemption ($1,675 + up to $15,800 of unused homestead). If you do not own a home, federal exemptions may protect more of your other property.
 
 Frequently Asked Questions
 
@@ -1239,7 +1239,7 @@ The means test uses New York's median income: $66,973 for 1 person, $82,282 for 
 
 Can I choose between state and federal exemptions?
 
-Yes. New York allows debtors to choose. State homestead: $179,975--$215,550 by county. Federal homestead: $27,900. The federal wildcard may be better if you do not own a home.
+Yes. New York allows debtors to choose. State homestead: $179,975--$215,550 by county. Federal homestead: $31,575. The federal wildcard may be better if you do not own a home.
 
 How often can I file Chapter 7?
 
@@ -1578,7 +1578,7 @@ Things to Avoid Before Filing
 
 Do not run up credit card debt. Purchases over $800 for luxury goods within 90 days may be challenged as non-dischargeable.
 
-Do not take cash advances. Cash advances over $1,100 within 70 days are presumptively non-dischargeable.
+Do not take cash advances. Cash advances over $1,250 within 70 days are presumptively non-dischargeable.
 
 Do not transfer property. Moving assets to friends, family, or trusts can be reversed by the trustee and may constitute fraud.
 
@@ -1743,7 +1743,7 @@ Verify your zip code falls within the correct filing district.
 
 New York Exemptions (State or Federal) in Bronx
 
-New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Bronx County. Federal homestead: $27,900. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $27,900 homestead, $4,450 vehicle, and a wildcard of $1,475 plus up to $13,950 unused homestead. Retirement accounts are fully exempt under both systems.
+New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Bronx County. Federal homestead: $31,575. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $31,575 homestead, $5,025 vehicle, and a wildcard of $1,675 plus up to $15,800 unused homestead. Retirement accounts are fully exempt under both systems.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -1779,7 +1779,7 @@ Bronx residents file in the Southern District of New York at One Bowling Green, 
 
 What exemptions do Bronx residents get?
 
-New York allows a choice of state or federal exemptions. The state homestead exemption for Bronx County is $179,975. Federal exemptions offer $27,900 homestead but a more generous wildcard ($1,475 plus up to $13,950 unused homestead). Renters often benefit more from federal exemptions.
+New York allows a choice of state or federal exemptions. The state homestead exemption for Bronx County is $179,975. Federal exemptions offer $31,575 homestead but a more generous wildcard ($1,675 plus up to $15,800 unused homestead). Renters often benefit more from federal exemptions.
 
 Can bankruptcy stop an eviction in the Bronx?
 
@@ -1913,7 +1913,7 @@ Verify your zip code falls within the correct filing district.
 
 New York Exemptions (State or Federal) in Brooklyn
 
-New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Kings County. Federal homestead: $27,900. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $27,900 homestead, $4,450 vehicle, and a wildcard of $1,475 plus up to $13,950 unused homestead. Retirement accounts are fully exempt under both systems.
+New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Kings County. Federal homestead: $31,575. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $31,575 homestead, $5,025 vehicle, and a wildcard of $1,675 plus up to $15,800 unused homestead. Retirement accounts are fully exempt under both systems.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -1949,7 +1949,7 @@ Brooklyn residents file in the Eastern District of New York at 271 Cadman Plaza 
 
 What exemptions apply in Brooklyn?
 
-New York allows debtors to choose between state and federal exemptions. The state homestead exemption for Kings County is $179,975 - generally better than the federal $27,900. However, federal exemptions may be better for renters due to the more generous wildcard ($1,475 plus up to $13,950 unused homestead).
+New York allows debtors to choose between state and federal exemptions. The state homestead exemption for Kings County is $179,975 - generally better than the federal $31,575. However, federal exemptions may be better for renters due to the more generous wildcard ($1,675 plus up to $15,800 unused homestead).
 
 Can I keep my Brooklyn apartment in bankruptcy?
 
@@ -2047,7 +2047,7 @@ Verify your zip code falls within the correct filing district.
 
 New York Exemptions (State or Federal) in Freeport
 
-New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Nassau County. Federal homestead: $27,900. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $27,900 homestead, $4,450 vehicle, and a wildcard of $1,475 plus up to $13,950 unused homestead. Retirement accounts are fully exempt under both systems.
+New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Nassau County. Federal homestead: $31,575. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $31,575 homestead, $5,025 vehicle, and a wildcard of $1,675 plus up to $15,800 unused homestead. Retirement accounts are fully exempt under both systems.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -2083,7 +2083,7 @@ Freeport residents file in the Eastern District of New York at 271 Cadman Plaza 
 
 Can I keep my boat in bankruptcy if I live in Freeport?
 
-Boats are personal property subject to exemptions. Under federal exemptions, a boat is not specifically exempted but may be protected by the wildcard ($1,475 plus up to $13,950 unused homestead). Under New York state exemptions, there is no specific boat exemption. High-value boats may be at risk in Chapter 7.
+Boats are personal property subject to exemptions. Under federal exemptions, a boat is not specifically exempted but may be protected by the wildcard ($1,675 plus up to $15,800 unused homestead). Under New York state exemptions, there is no specific boat exemption. High-value boats may be at risk in Chapter 7.
 
 How does bankruptcy affect my Freeport property taxes?
 
@@ -2183,7 +2183,7 @@ Verify your zip code falls within the correct filing district.
 
 New York Exemptions (State or Federal) in Hempstead
 
-New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Nassau County. Federal homestead: $27,900. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $27,900 homestead, $4,450 vehicle, and a wildcard of $1,475 plus up to $13,950 unused homestead. Retirement accounts are fully exempt under both systems.
+New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Nassau County. Federal homestead: $31,575. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $31,575 homestead, $5,025 vehicle, and a wildcard of $1,675 plus up to $15,800 unused homestead. Retirement accounts are fully exempt under both systems.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -2413,7 +2413,7 @@ Verify your zip code falls within the correct filing district.
 
 New York Exemptions (State or Federal) in Mount Vernon
 
-New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Westchester County. Federal homestead: $27,900. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $27,900 homestead, $4,450 vehicle, and a wildcard of $1,475 plus up to $13,950 unused homestead. Retirement accounts are fully exempt under both systems.
+New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Westchester County. Federal homestead: $31,575. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $31,575 homestead, $5,025 vehicle, and a wildcard of $1,675 plus up to $15,800 unused homestead. Retirement accounts are fully exempt under both systems.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -2551,7 +2551,7 @@ Verify your zip code falls within the correct filing district.
 
 New York Exemptions (State or Federal) in New Rochelle
 
-New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Westchester County. Federal homestead: $27,900. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $27,900 homestead, $4,450 vehicle, and a wildcard of $1,475 plus up to $13,950 unused homestead. Retirement accounts are fully exempt under both systems.
+New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Westchester County. Federal homestead: $31,575. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $31,575 homestead, $5,025 vehicle, and a wildcard of $1,675 plus up to $15,800 unused homestead. Retirement accounts are fully exempt under both systems.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -2745,7 +2745,7 @@ Verify your zip code falls within the correct filing district.
 
 New York Exemptions (State or Federal) in Queens
 
-New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Queens County. Federal homestead: $27,900. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $27,900 homestead, $4,450 vehicle, and a wildcard of $1,475 plus up to $13,950 unused homestead. Retirement accounts are fully exempt under both systems.
+New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Queens County. Federal homestead: $31,575. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $31,575 homestead, $5,025 vehicle, and a wildcard of $1,675 plus up to $15,800 unused homestead. Retirement accounts are fully exempt under both systems.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -2781,7 +2781,7 @@ Queens residents file in the Eastern District of New York. The courthouse is at 
 
 What homestead exemption applies in Queens?
 
-New York's state homestead exemption for Queens County is $179,975. You can alternatively choose federal exemptions ($27,900 homestead but larger wildcard). Most Queens homeowners benefit from the state exemption. For co-ops, the shares are treated as real property.
+New York's state homestead exemption for Queens County is $179,975. You can alternatively choose federal exemptions ($31,575 homestead but larger wildcard). Most Queens homeowners benefit from the state exemption. For co-ops, the shares are treated as real property.
 
 Can I file bankruptcy in multiple languages in Queens?
 
@@ -2891,7 +2891,7 @@ Verify your zip code falls within the correct filing district.
 
 New York Exemptions (State or Federal) in Staten Island
 
-New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Richmond County. Federal homestead: $27,900. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $27,900 homestead, $4,450 vehicle, and a wildcard of $1,475 plus up to $13,950 unused homestead. Retirement accounts are fully exempt under both systems.
+New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Richmond County. Federal homestead: $31,575. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $31,575 homestead, $5,025 vehicle, and a wildcard of $1,675 plus up to $15,800 unused homestead. Retirement accounts are fully exempt under both systems.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -3031,7 +3031,7 @@ Verify your zip code falls within the correct filing district.
 
 New York Exemptions (State or Federal) in White Plains
 
-New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Westchester County. Federal homestead: $27,900. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $27,900 homestead, $4,450 vehicle, and a wildcard of $1,475 plus up to $13,950 unused homestead. Retirement accounts are fully exempt under both systems.
+New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Westchester County. Federal homestead: $31,575. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $31,575 homestead, $5,025 vehicle, and a wildcard of $1,675 plus up to $15,800 unused homestead. Retirement accounts are fully exempt under both systems.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -3170,7 +3170,7 @@ Verify your zip code falls within the correct filing district.
 
 New York Exemptions (State or Federal) in Yonkers
 
-New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Westchester County. Federal homestead: $27,900. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $27,900 homestead, $4,450 vehicle, and a wildcard of $1,475 plus up to $13,950 unused homestead. Retirement accounts are fully exempt under both systems.
+New York allows debtors to choose between state and federal bankruptcy exemptions. New York allows a choice between state and federal exemptions. State homestead: $179,975 in Westchester County. Federal homestead: $31,575. State exemptions include: vehicle $4,550, cash $5,000, household goods up to $14,375, tools of trade $11,975, and jewelry $1,150. Federal exemptions offer: $31,575 homestead, $5,025 vehicle, and a wildcard of $1,675 plus up to $15,800 unused homestead. Retirement accounts are fully exempt under both systems.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -3733,7 +3733,7 @@ One Bowling Green, New York, NY 10004
 
 New York Exemptions in Bronx County
 
-New York state or federal exemptions. State homestead: $179,975 (Bronx County). Vehicle: $4,825. Cash: $5,000. Personal property exemptions vary by category. Federal alternative: homestead $27,900 per person, vehicle $4,450, wildcard up to $15,425 combined.
+New York state or federal exemptions. State homestead: $179,975 (Bronx County). Vehicle: $4,825. Cash: $5,000. Personal property exemptions vary by category. Federal alternative: homestead $31,575 per person, vehicle $5,025, wildcard up to $17,475 combined.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -3840,7 +3840,7 @@ Nearest Courthouse
 
 New York Exemptions in Kings County (Brooklyn)
 
-New York state or federal exemptions. State homestead: $179,975 (Kings County). Vehicle: $4,825. Cash: $5,000. Personal property: varies. Federal alternative: homestead $27,900 per person, vehicle $4,450, wildcard $1,475 plus $13,950 unused homestead.
+New York state or federal exemptions. State homestead: $179,975 (Kings County). Vehicle: $4,825. Cash: $5,000. Personal property: varies. Federal alternative: homestead $31,575 per person, vehicle $5,025, wildcard $1,675 plus $15,800 unused homestead.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -3866,7 +3866,7 @@ Yes. Kings County (Brooklyn) is in the Eastern District of New York, while Manha
 
 What is the homestead exemption in Brooklyn?
 
-The New York state homestead exemption for Kings County is $179,975. Alternatively, you can use federal exemptions with a homestead of $27,900 per person. Given Brooklyn's high real estate values, many homeowners have equity exceeding the state exemption.
+The New York state homestead exemption for Kings County is $179,975. Alternatively, you can use federal exemptions with a homestead of $31,575 per person. Given Brooklyn's high real estate values, many homeowners have equity exceeding the state exemption.
 
 Can I protect my co-op apartment in Brooklyn?
 
@@ -3947,7 +3947,7 @@ One Bowling Green, New York, NY 10004
 
 New York Exemptions in New York County (Manhattan)
 
-New York allows a choice between state and federal exemptions. State homestead: $179,975-$299,975 depending on county (New York County: $179,975). Vehicle: $4,825. Cash: $5,000. Personal property: varies by category. Federal exemptions available as alternative: homestead $27,900, vehicle $4,450, wildcard $1,475 plus $13,950 of unused homestead.
+New York allows a choice between state and federal exemptions. State homestead: $179,975-$299,975 depending on county (New York County: $179,975). Vehicle: $4,825. Cash: $5,000. Personal property: varies by category. Federal exemptions available as alternative: homestead $31,575, vehicle $5,025, wildcard $1,675 plus $15,800 of unused homestead.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -3973,7 +3973,7 @@ New York County (Manhattan) cases are filed in the Southern District of New York
 
 Can I choose between state and federal exemptions in Manhattan?
 
-Yes. New York is one of the states that allows filers to choose between state and federal exemptions. The state homestead exemption for New York County is $179,975. The federal homestead exemption is approximately $27,900 per person ($55,800 for a married couple). Most Manhattan residents with significant home equity benefit from the state exemption.
+Yes. New York is one of the states that allows filers to choose between state and federal exemptions. The state homestead exemption for New York County is $179,975. The federal homestead exemption is approximately $31,575 per person ($63,150 for a married couple). Most Manhattan residents with significant home equity benefit from the state exemption.
 
 How does the high cost of living affect bankruptcy in Manhattan?
 
@@ -4054,7 +4054,7 @@ Nearest Courthouse
 
 New York Exemptions in Queens County
 
-New York state or federal exemptions apply. State homestead: $179,975 (Queens County). Vehicle: $4,825. Cash: $5,000. Federal alternative available: homestead $27,900 per person, vehicle $4,450, wildcard $1,475 plus unused homestead up to $13,950.
+New York state or federal exemptions apply. State homestead: $179,975 (Queens County). Vehicle: $4,825. Cash: $5,000. Federal alternative available: homestead $31,575 per person, vehicle $5,025, wildcard $1,675 plus unused homestead up to $15,800.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -4080,7 +4080,7 @@ Queens County cases are filed in the Eastern District of New York. The courthous
 
 What exemptions apply to Queens County residents?
 
-Queens County residents can choose between New York state exemptions (homestead: $179,975) or federal exemptions (homestead: $27,900 per person). The best choice depends on your specific assets. Many Queens homeowners benefit from the higher state homestead exemption.
+Queens County residents can choose between New York state exemptions (homestead: $179,975) or federal exemptions (homestead: $31,575 per person). The best choice depends on your specific assets. Many Queens homeowners benefit from the higher state homestead exemption.
 
 Can I file bankruptcy on my small business in Queens?
 
@@ -4161,7 +4161,7 @@ Nearest Courthouse
 
 New York Exemptions in Westchester County
 
-New York state or federal exemptions. State homestead: $179,975 (Westchester County falls in the middle tier). Vehicle: $4,825. Cash: $5,000. Personal property: varies. Federal alternative: homestead $27,900 per person. Westchester's high home values often exceed the state exemption.
+New York state or federal exemptions. State homestead: $179,975 (Westchester County falls in the middle tier). Vehicle: $4,825. Cash: $5,000. Personal property: varies. Federal alternative: homestead $31,575 per person. Westchester's high home values often exceed the state exemption.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -4475,7 +4475,7 @@ Under 11 U.S.C. section 523(a)(2)(C), charges for luxury goods or services to a 
 
 Recent Cash Advances (70-Day Rule)
 
-Cash advances totaling more than $1,100 within 70 days of filing are also presumed nondischargeable. This includes convenience checks and balance transfers that are treated as cash advances.
+Cash advances totaling more than $1,250 within 70 days of filing are also presumed nondischargeable. This includes convenience checks and balance transfers that are treated as cash advances.
 
 Fraud
 
@@ -4511,7 +4511,7 @@ Yes. Credit card debt is unsecured debt and is generally dischargeable in both C
 
 Are there exceptions for recent credit card charges?
 
-Yes. Luxury goods or services charged to a single creditor totaling more than $800 within 90 days of filing are presumed nondischargeable. Cash advances totaling more than $1,100 within 70 days of filing are also presumed nondischargeable. The creditor must object to prevent discharge.
+Yes. Luxury goods or services charged to a single creditor totaling more than $900 within 90 days of filing are presumed nondischargeable. Cash advances totaling more than $1,250 within 70 days of filing are also presumed nondischargeable. The creditor must object to prevent discharge.
 
 What if a creditor claims fraud?
 
@@ -4746,7 +4746,7 @@ Administrative expenses (trustee fees, attorney fees approved by the court)
 
 Certain tax debts - priority taxes from the last 3 years
 
-Employee wages - up to $15,150 per employee earned within 180 days pre-filing
+Employee wages - up to $17,150 per employee earned within 180 days pre-filing
 
 Frequently Asked Questions
 
@@ -4760,7 +4760,7 @@ Student loans (unless undue hardship), child support, alimony, recent taxes, fra
 
 Is credit card debt dischargeable?
 
-Yes. Credit card debt is fully dischargeable. Recent luxury purchases over $800 within 90 days or cash advances over $1,100 within 70 days may be challenged but are still often discharged.
+Yes. Credit card debt is fully dischargeable. Recent luxury purchases over $900 within 90 days or cash advances over $1,250 within 70 days may be challenged but are still often discharged.
 
 What is the difference between secured and unsecured debt?
 
@@ -4891,7 +4891,7 @@ Chapter 13
 
 No regular income - must have income sufficient to fund a plan
 
-Debt exceeds $2,750,000 (combined secured + unsecured)
+Debts exceed the section 109(e) limits ($526,700 unsecured or $1,580,125 secured) (combined secured + unsecured)
 
 Not an individual - businesses, corporations, and LLCs cannot file Chapter 13
 
@@ -6192,7 +6192,7 @@ E-M
 
 Exemptions
 
-State and federal laws that protect certain property from the bankruptcy estate. New York lets you choose between state exemptions (homestead $179,975--$215,550) and federal exemptions (homestead $27,900). See New York Exemptions.
+State and federal laws that protect certain property from the bankruptcy estate. New York lets you choose between state exemptions (homestead $179,975--$215,550) and federal exemptions (homestead $31,575). See New York Exemptions.
 
 Fraudulent Transfer
 
@@ -6399,7 +6399,7 @@ New York's median for 1 person is $66,973. Below = auto-qualify. Above-median fi
 
 Is there an income limit for Chapter 13?
 
-No ceiling. Income determines your plan length (3 or 5 years) and payment amount, not eligibility. The debt limit is $2,750,000. See Chapter 13 eligibility.
+No ceiling. Income determines your plan length (3 or 5 years) and payment amount, not eligibility. The debt limits are $526,700 unsecured and $1,580,125 secured. See Chapter 13 eligibility.
 
 Can I make too much to file any bankruptcy?
 
@@ -6933,7 +6933,7 @@ In most cases, yes. New York's vehicle exemption protects up to $4,825 of equity
 
 What is the New York vehicle exemption?
 
-New York protects $4,825 of equity in one motor vehicle under state exemptions. If you choose federal exemptions, the vehicle exemption is $4,450 plus you may apply unused homestead wildcard. Full exemption details.
+New York protects $4,825 of equity in one motor vehicle under state exemptions. If you choose federal exemptions, the vehicle exemption is $5,025 plus you may apply unused homestead wildcard. Full exemption details.
 
 What is reaffirmation in Chapter 7?
 
@@ -7070,11 +7070,11 @@ Wildcard: $1,150
 
 Federal Exemptions
 
-Homestead: $27,900
+Homestead: $31,575
 
 Better for renters or minimal home equity
 
-Vehicle: $4,450
+Vehicle: $5,025
 
 Wildcard: up to $14,875 (unused homestead)
 
@@ -7367,11 +7367,11 @@ Better for homeowners with significant equity
 
 Federal Exemptions
 
-Homestead: $27,900 (individual)
+Homestead: $31,575 (individual)
 
-Vehicle: $4,450 per person
+Vehicle: $5,025 per person
 
-Wildcard: $1,475 + up to $13,950 of unused homestead
+Wildcard: $1,675 + up to $15,800 of unused homestead
 
 Better for renters or those with low home equity
 
@@ -7792,7 +7792,7 @@ Fraud claim. If you provided false information on the loan application (fake emp
 
 No-intent-to-repay. Taking a payday loan knowing you will file bankruptcy soon could be challenged, but the lender bears the burden of proof.
 
-70-day presumption. Cash advances over $1,100 within 70 days of filing are presumed nondischargeable, and payday loans may be treated as cash advances.
+70-day presumption. Cash advances over $1,250 within 70 days of filing are presumed nondischargeable, and payday loans may be treated as cash advances.
 
 In practice, payday lenders rarely challenge discharge because the amounts are small relative to litigation costs.
 
@@ -8407,7 +8407,7 @@ A free guide for New York residents. Filed in S.D.N.Y..
 
 What You Need to Know
 
-Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,512,350 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
+Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,711,975 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
 
 In New York: New York exempts all ERISA-qualified plans. State exemption for IRAs is also generous.
 
@@ -8417,7 +8417,7 @@ Frequently Asked Questions
 
 Can I Keep My 401k and Retirement in Bankruptcy?
 
-Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,512,350 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
+Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,711,975 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
 
 How does this work in New York?
 
@@ -8680,7 +8680,7 @@ Chapter 7Liquidate and closeNo limit$338
 
 Chapter 11ReorganizeNo limit$1,738
 
-Subchapter VStreamlined reorganization$7.5 million$571
+Subchapter VStreamlined reorganization$3,424,000$1,738
 
 Chapter 13 (sole proprietors)Personal + business debtsNo limit (post-2024)$313
 
@@ -8688,7 +8688,7 @@ Subchapter V - Small Business Reorganization
 
 Subchapter V of Chapter 11, created by the Small Business Reorganization Act of 2019, is specifically designed for small businesses:
 
-Debt limit: Total noncontingent, liquidated debts under $7.5 million (at least 50% from business activity)
+Debt limit: Total noncontingent, liquidated debts of no more than $3,424,000 (at least 50% from business activity)
 
 No creditors committee: Reduces cost and complexity
 
@@ -8740,11 +8740,11 @@ Frequently Asked Questions
 
 What are the bankruptcy options for small businesses in New York?
 
-Chapter 7 (liquidation to close), Chapter 11 (reorganization), Subchapter V (streamlined reorganization for debts under $7.5M), and Chapter 13 for sole proprietors. The best option depends on whether you want to continue operating.
+Chapter 7 (liquidation to close), Chapter 11 (reorganization), Subchapter V (streamlined reorganization for debts of no more than $3,424,000), and Chapter 13 for sole proprietors. The best option depends on whether you want to continue operating.
 
 What is Subchapter V bankruptcy?
 
-A streamlined Chapter 11 for businesses with under $7.5M in debt. No creditors committee, no disclosure statement, the debtor keeps ownership, and the plan must be filed within 90 days. It is faster and cheaper than traditional Chapter 11.
+A streamlined Chapter 11 for businesses with no more than $3,424,000 in debt. No creditors committee, no disclosure statement, the debtor keeps ownership, and the plan must be filed within 90 days. It is faster and cheaper than traditional Chapter 11.
 
 Can I keep my business open during bankruptcy?
 
