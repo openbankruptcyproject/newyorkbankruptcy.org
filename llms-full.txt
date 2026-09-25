@@ -1,6 +1,6 @@
 # newyorkbankruptcy.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on newyorkbankruptcy.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -19,6 +19,8 @@ Home›341 Meeting
 The 341 Meeting of Creditors in New York
 
 The 341 meeting is required in every bankruptcy case, but it is usually brief and straightforward. Most last 5-10 minutes. Here is what to expect in the Southern District of New York.
+
+The 341 meeting (named after 11 U.S.C. section 341) is a required hearing where the bankruptcy trustee and any creditors can question you under oath about your finances and the information in your bankruptcy petition. It takes place about 21-40 days after filing and usually lasts only 5-10 minutes.
 
 What Is the 341 Meeting?
 
@@ -164,15 +166,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -195,6 +215,8 @@ Home›Automatic Stay
 The Automatic Stay in New York Bankruptcy
 
 The moment you file bankruptcy, a powerful federal court order called the automatic stay stops nearly all creditor actions against you - collections, lawsuits, garnishments, foreclosures, and repossessions.
+
+The automatic stay is a federal court order under 11 U.S.C. section 362 that takes effect the instant you file your bankruptcy petition. It immediately stops most creditor actions including lawsuits, wage garnishments, foreclosure sales, repossessions, and collection calls.
 
 What the Automatic Stay Stops
 
@@ -338,15 +360,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -371,6 +411,8 @@ Bank Accounts and Bankruptcy in New York
 Your bank account does not disappear when you file bankruptcy, but money in the account on the filing date is part of the estate. Here is how to protect it.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+No, you do not lose your bank account. However, money in the account on the filing date becomes part of the bankruptcy estate. You can protect it with exemptions. The federal wildcard exemption ($1,675 plus up to $15,800 of unused homestead) or New York's cash exemption can protect funds in your account.
 
 What Happens to Your Bank Account
 
@@ -453,15 +495,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -484,6 +544,8 @@ Home›Can I Buy a Car While in Chapter 13?
 Can I Buy a Car While in Chapter 13?
 
 A free guide for New York residents considering bankruptcy. Filed in S.D.N.Y..
+
+You need trustee approval and a court motion to purchase a vehicle during Chapter 13. The trustee will evaluate whether the purchase is necessary and whether the payment fits your budget. Interest rates are typically higher. Used vehicles are more likely to be approved.
 
 What You Need to Know
 
@@ -528,13 +590,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -559,6 +641,8 @@ Buying a House After Bankruptcy in New York
 Bankruptcy does not permanently prevent homeownership. With the right strategy, many New Yorkers qualify for a mortgage within 2-4 years of discharge.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The waiting period depends on the loan type: FHA loans require 2 years after Chapter 7 discharge or 1 year of on-time Chapter 13 payments. VA loans require 2 years after Chapter 7 or 1 year into Chapter 13. Conventional loans require 4 years after Chapter 7 or 2 years after Chapter 13 discharge. USDA loans require 3 years after Chapter 7.
 
 Mortgage Waiting Periods
 
@@ -641,15 +725,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -672,6 +774,8 @@ Home›Car Leases and Bankruptcy
 Car Leases and Bankruptcy
 
 A free guide for New York residents considering bankruptcy. Filed in S.D.N.Y..
+
+You have 60 days after filing to decide whether to assume (keep) or reject (surrender) your car lease. If you are current on payments, you can typically keep the lease by assuming it. If behind, rejection discharges the remaining obligation. Lease buyout may be an option if you want to own the vehic
 
 What You Need to Know
 
@@ -716,13 +820,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -747,6 +871,8 @@ Chapter 13 Eligibility in New York
 Chapter 13 lets you keep your property while repaying debts over 3-5 years. Unlike Chapter 7, there is no means test income limit - but there are other requirements.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Under Section 109(e) of the Bankruptcy Code, Chapter 13 has two separate debt limits: noncontingent, liquidated unsecured debts must be less than $526,700, and noncontingent, liquidated secured debts must be less than $1,580,125. These limits adjust every three years (most recently on April 1, 2025). From June 2022 to June 21, 2024, a temporary law combined these into a single $2,750,000 limit; that provision expired. If your debts exceed either limit, you may need to consider Chapter 11.
 
 Core Requirements
 
@@ -835,15 +961,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -868,6 +1012,8 @@ Chapter 13 Payments in New York
 Your Chapter 13 plan payment is based on your income, debts, and what creditors would receive in Chapter 7. Here is how it works.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Your payment depends on your disposable income, what you owe on secured debts, priority debts (taxes, child support arrears), and what unsecured creditors would receive in Chapter 7. The payment must be at least enough to cover these obligations over 3-5 years. Many payments range from $200 to $2,000 per month depending on income and debts.
 
 How Your Payment Is Calculated
 
@@ -956,15 +1102,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1005,6 +1169,8 @@ Plan Duration
 $313
 
 Filing Fee
+
+The Southern District of New York has a 59.0% Chapter 13 dismissal rate based on 2008-2024 data. A dismissed case means the debtor got no debt relief despite months or years of payments.
 
 What Is Chapter 13?
 
@@ -1133,15 +1299,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1166,6 +1350,8 @@ Chapter 7 Eligibility in New York
 Chapter 7 eliminates most unsecured debt in 3-4 months, but you must qualify. The primary gatekeeper is the means test. Here is what New York filers need to know.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The means test compares your income to New York's median. For a 1-person household, the median is $66,973. For 2 persons it is $82,282; 3 persons $97,878; 4 persons $119,164. If your income is below the median, you pass automatically. If above, you may still qualify after deducting allowed expenses.
 
 New York Means Test Income Limits
 
@@ -1283,15 +1469,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1314,6 +1518,8 @@ Home›Chapter 7
 Chapter 7 Bankruptcy in New York
 
 Chapter 7 is the fastest path to debt relief. Most unsecured debts are eliminated in 3-4 months. Here is what New York residents need to know.
+
+Chapter 7 discharges most unsecured debts including credit cards, medical bills, personal loans, and old utility bills. It does not discharge student loans (in most cases), recent taxes, child support, alimony, or debts incurred through fraud.
 
 What Is Chapter 7?
 
@@ -1446,15 +1652,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1477,6 +1701,8 @@ Home›Checklist
 Bankruptcy Filing Checklist for New York
 
 Everything you need to gather and complete before filing bankruptcy in the Southern District of New York. Print this page and check off items as you go.
+
+You need: 2 years of federal and state tax returns, 6 months of pay stubs or proof of income, 6 months of bank statements, a list of all debts with account numbers and balances, a list of all assets with estimated values, vehicle titles and registrations, mortgage statements, and your credit counseling certificate.
 
 Required Documents
 
@@ -1576,7 +1802,7 @@ Make plan payments (Chapter 13 only) - First payment due within 30 days of filin
 
 Things to Avoid Before Filing
 
-Do not run up credit card debt. Purchases over $800 for luxury goods within 90 days may be challenged as non-dischargeable.
+Do not run up credit card debt. Purchases over $900 for luxury goods within 90 days may be challenged as non-dischargeable.
 
 Do not take cash advances. Cash advances over $1,250 within 70 days are presumptively non-dischargeable.
 
@@ -1659,15 +1885,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1690,6 +1934,8 @@ Home » Cities » Bronx, NY
 Bankruptcy in Bronx, NY
 
 The Bronx is the northernmost borough of New York City and the only borough on the U.S. mainland. Bronx County is home to approximately 1.4 million residents, Yankee Stadium, the Bronx Zoo, and the New York Botanical Garden.
+
+Bronx residents file in the Southern District of New York at One Bowling Green, New York, NY 10004 (Lower Manhattan). This is different from Brooklyn and Queens, which are in the Eastern District. The courthouse is accessible via the 4/5 trains to Bowling Green station.
 
 Key Information
 
@@ -1835,6 +2081,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Brooklyn, NY - New York Bankruptcy Guide
@@ -1848,6 +2096,8 @@ Home » Cities » Brooklyn, NY
 Bankruptcy in Brooklyn, NY
 
 Brooklyn is the most populous borough of New York City, with approximately 2.7 million residents in Kings County. It is home to diverse communities ranging from Williamsburg to Bay Ridge, each with distinct character.
+
+Brooklyn residents file in the Eastern District of New York at 271 Cadman Plaza East, Brooklyn, NY 11201. This is conveniently located in downtown Brooklyn, accessible by many subway lines. All 341 meetings are also held at this location.
 
 Key Information
 
@@ -2005,6 +2255,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Freeport, NY - New York Bankruptcy Guide
@@ -2018,6 +2270,8 @@ Home » Cities » Freeport, NY
 Bankruptcy in Freeport, NY
 
 Freeport is a large village in Nassau County on the South Shore of Long Island. Known as the Nautical Mile for its waterfront dining and boating district, it is a diverse community of approximately 45,000 residents.
+
+Freeport residents file in the Eastern District of New York at 271 Cadman Plaza East, Brooklyn, NY 11201. The LIRR Babylon line runs from Freeport to Atlantic Terminal in Brooklyn, making the courthouse accessible by public transit.
 
 Key Information
 
@@ -2139,6 +2393,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Hempstead, NY - New York Bankruptcy Guide
@@ -2152,6 +2408,8 @@ Home » Cities » Hempstead, NY
 Bankruptcy in Hempstead, NY
 
 Hempstead is one of the most populous villages in New York State, located in Nassau County on Long Island. The Town of Hempstead (which includes the village and surrounding areas) is one of the most populous townships in the United States.
+
+Hempstead residents file in the Eastern District of New York at 271 Cadman Plaza East, Brooklyn, NY 11201. The drive from Hempstead is approximately 35-45 minutes west, or accessible via LIRR to Atlantic Terminal and a short walk.
 
 Key Information
 
@@ -2275,6 +2533,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy by City - New York Bankruptcy Guide
@@ -2368,6 +2628,30 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
 ---
 
 ## Bankruptcy in Mount Vernon, NY - New York Bankruptcy Guide
@@ -2381,6 +2665,8 @@ Home » Cities » Mount Vernon, NY
 Bankruptcy in Mount Vernon, NY
 
 Mount Vernon is a city in Westchester County directly north of the Bronx border. It is one of the most densely populated cities in New York State outside of New York City, with approximately 75,000 residents.
+
+Mount Vernon residents file in the Southern District of New York, White Plains Division, at 300 Quarropas St, White Plains, NY 10601. The courthouse is approximately 20-25 minutes north.
 
 Key Information
 
@@ -2505,6 +2791,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in New Rochelle, NY - New York Bankruptcy Guide
@@ -2518,6 +2806,8 @@ Home » Cities » New Rochelle, NY
 Bankruptcy in New Rochelle, NY
 
 New Rochelle is a city in Westchester County on the Long Island Sound, approximately 16 miles north of Midtown Manhattan. It has a diverse population of approximately 80,000 and a mix of urban and suburban neighborhoods.
+
+New Rochelle residents file in the Southern District of New York, White Plains Division, at 300 Quarropas St, White Plains, NY 10601. The courthouse is approximately 15-20 minutes north of New Rochelle.
 
 Key Information
 
@@ -2643,6 +2933,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Queens, NY - New York Bankruptcy Guide
@@ -2656,6 +2948,8 @@ Home » Cities » Queens, NY
 Bankruptcy in Queens, NY
 
 Queens is the most ethnically diverse urban area in the world and the largest borough of New York City by area. Queens County is home to over 2.3 million residents, JFK and LaGuardia airports, and Citi Field.
+
+Queens residents file in the Eastern District of New York. The courthouse is at 271 Cadman Plaza East, Brooklyn, NY 11201. While not in Queens itself, it is accessible via subway from most Queens neighborhoods.
 
 Key Information
 
@@ -2837,6 +3131,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Staten Island, NY - New York Bankruptcy Guide
@@ -2850,6 +3146,8 @@ Home » Cities » Staten Island, NY
 Bankruptcy in Staten Island, NY
 
 Staten Island is the southernmost and least densely populated borough of New York City. Richmond County has a more suburban character than the other boroughs, with higher homeownership rates and a population of approximately 475,000.
+
+Staten Island residents file in the Eastern District of New York at 271 Cadman Plaza East, Brooklyn, NY 11201. While less convenient than a local courthouse, it is accessible via the Staten Island Ferry and subway.
 
 Key Information
 
@@ -2983,6 +3281,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in White Plains, NY - New York Bankruptcy Guide
@@ -2996,6 +3296,8 @@ Home » Cities » White Plains, NY
 Bankruptcy in White Plains, NY
 
 White Plains is the county seat of Westchester County, located approximately 25 miles north of Midtown Manhattan. It is a major commercial center with a growing downtown residential population.
+
+White Plains residents file in the Southern District of New York at 300 Quarropas St, White Plains, NY 10601 - the bankruptcy courthouse is right in downtown White Plains. This is one of the most convenient locations in the metro area for local residents.
 
 Key Information
 
@@ -3123,6 +3425,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Yonkers, NY - New York Bankruptcy Guide
@@ -3136,6 +3440,8 @@ Home » Cities » Yonkers, NY
 Bankruptcy in Yonkers, NY
 
 Yonkers is the fourth-largest city in New York State, located in Westchester County directly north of the Bronx. It is the most populous city in Westchester County with approximately 200,000 residents.
+
+Yonkers residents file in the Southern District of New York, White Plains Division, at 300 Quarropas St, White Plains, NY 10601. The courthouse is approximately 20 minutes north of Yonkers. Some matters may be heard at One Bowling Green in Lower Manhattan.
 
 Key Information
 
@@ -3262,6 +3568,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Converting Between Bankruptcy Chapters in New York
@@ -3277,6 +3585,8 @@ Converting Between Bankruptcy Chapters in New York
 Circumstances change. If you filed under the wrong chapter or your situation has shifted, you may be able to convert your case. Here is how conversion works in the Southern District of New York.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. A debtor has an absolute right to convert from Chapter 13 to Chapter 7 under 11 U.S.C. section 1307(a), as long as the case was not previously converted from Chapter 7. You must still qualify for Chapter 7 under the means test. The conversion fee is $25.
 
 Conversion Options
 
@@ -3402,15 +3712,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3422,7 +3750,7 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 ---
 
-## How Much Does Bankruptcy Cost in New York? - Filing Fees, Attorney Fees
+## New York Bankruptcy Cost [2026]: $338 Chapter 7 Filing Fee, NYC Attorney Fees, and Fee Waivers
 Source: https://newyorkbankruptcy.org/cost.html
 
 New York Bankruptcy Guide
@@ -3449,6 +3777,8 @@ Credit Counseling (2 courses)
 $1,500-$6,000
 
 Typical Attorney Fees
+
+The Chapter 7 filing fee is $338. Attorney fees in New York typically range from $1,500 - $3,500. Credit counseling courses cost about $25-50 total. Total: typically $1,900 - $3,900. Fee waivers available for low-income filers.
 
 Chapter 7 Cost Breakdown
 
@@ -3545,15 +3875,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3576,6 +3924,8 @@ Home›Counties
 Bankruptcy by County - New York Metro Area
 
 Your county determines which federal court handles your bankruptcy case and which state exemptions protect your property. Find your county below for specific information.
+
+The New York metro area covers 5 counties: New York County (Manhattan), Kings County (Brooklyn), Queens County, Bronx County, Westchester County. Each county falls under a specific federal bankruptcy court district.
 
 5 Counties in the New York Metro
 
@@ -3685,15 +4035,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3705,7 +4073,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Bankruptcy in Bronx County - New York Bankruptcy Guide
+## Bronx County Bankruptcy [2026]: SDNY Filing Procedures, NY Exemptions, and Local 341 Meeting
 Source: https://newyorkbankruptcy.org/counties/bronx-county.html
 
 New York Bankruptcy Guide
@@ -3716,6 +4084,8 @@ Home » Counties » Bronx County
 Bankruptcy in Bronx County
 
 Bronx County is the northernmost borough of New York City. Like Manhattan, it falls under the Southern District of New York. Bronx residents file at the Manhattan courthouse.
+
+Bronx County cases are filed in the Southern District of New York, the same district as Manhattan. The courthouse is at One Bowling Green, New York, NY 10004. Bronx residents travel to Lower Manhattan for hearings and the 341 meeting of creditors.
 
 Key Information
 
@@ -3810,9 +4180,11 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
-## Bankruptcy in Kings County (Brooklyn) - New York Bankruptcy Guide
+## Kings County (Brooklyn) Bankruptcy [2026]: EDNY Court, NY Exemptions, and Local Filing Procedures
 Source: https://newyorkbankruptcy.org/counties/kings-county-brooklyn.html
 
 New York Bankruptcy Guide
@@ -3823,6 +4195,8 @@ Home » Counties » Kings County (Brooklyn)
 Bankruptcy in Kings County (Brooklyn)
 
 Kings County (Brooklyn) is the most populous borough in New York City. Unlike Manhattan, Brooklyn falls under the Eastern District of New York - a different federal court district with its own courthouse and judges.
+
+Yes. Kings County (Brooklyn) is in the Eastern District of New York, while Manhattan is in the Southern District. The Brooklyn bankruptcy courthouse is at 271-C Cadman Plaza East, Brooklyn, NY 11201. This means different judges and potentially different local practices.
 
 Key Information
 
@@ -3870,7 +4244,7 @@ The New York state homestead exemption for Kings County is $179,975. Alternative
 
 Can I protect my co-op apartment in Brooklyn?
 
-Co-op apartments can be protected under the homestead exemption if the co-op is your primary residence. The $179,975 state exemption or $27,900 federal exemption applies to the equity in your co-op shares. Consult a qualified attorney for co-op-specific issues.
+Co-op apartments can be protected under the homestead exemption if the co-op is your primary residence. The $179,975 state exemption or $31,575 federal exemption applies to the equity in your co-op shares. Consult a qualified attorney for co-op-specific issues.
 
 Check Your Eligibility
 
@@ -3917,9 +4291,11 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
-## Bankruptcy in New York County (Manhattan) - New York Bankruptcy Guide
+## New York County (Manhattan) Bankruptcy [2026]: SDNY Court, Downstate Homestead, Local Procedures
 Source: https://newyorkbankruptcy.org/counties/new-york-county-manhattan.html
 
 New York Bankruptcy Guide
@@ -3930,6 +4306,8 @@ Home » Counties » New York County (Manhattan)
 Bankruptcy in New York County (Manhattan)
 
 New York County (Manhattan) is the financial capital of the world and the most densely populated county in the United States. Bankruptcy cases are handled by the Southern District of New York, one of the busiest bankruptcy courts in the nation.
+
+New York County (Manhattan) cases are filed in the Southern District of New York. The bankruptcy courthouse is at One Bowling Green, New York, NY 10004, in Lower Manhattan near Battery Park. This is one of the busiest bankruptcy courts in the country.
 
 Key Information
 
@@ -4024,9 +4402,11 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
-## Bankruptcy in Queens County - New York Bankruptcy Guide
+## Queens County Bankruptcy [2026]: EDNY Filing Procedures, NY Exemptions, Local 341 Meeting
 Source: https://newyorkbankruptcy.org/counties/queens-county.html
 
 New York Bankruptcy Guide
@@ -4037,6 +4417,8 @@ Home » Counties » Queens County
 Bankruptcy in Queens County
 
 Queens County is the most ethnically diverse urban area in the world and the second-largest New York City borough by population. Cases are filed in the Eastern District of New York.
+
+Queens County cases are filed in the Eastern District of New York. The courthouse is at 271-C Cadman Plaza East, Brooklyn, NY 11201 - the same courthouse used for Brooklyn cases. Queens residents should plan for travel to the Brooklyn courthouse for their 341 meeting.
 
 Key Information
 
@@ -4131,9 +4513,11 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
-## Bankruptcy in Westchester County - New York Bankruptcy Guide
+## Westchester County Bankruptcy [2026]: SDNY White Plains Division, NY Exemptions, Local Procedures
 Source: https://newyorkbankruptcy.org/counties/westchester-county.html
 
 New York Bankruptcy Guide
@@ -4144,6 +4528,8 @@ Home » Counties » Westchester County
 Bankruptcy in Westchester County
 
 Westchester County is directly north of New York City and includes affluent suburbs like Scarsdale, White Plains, and New Rochelle. It has its own division within the Southern District of New York.
+
+Westchester County cases are filed in the Southern District of New York, White Plains Division. The courthouse is at 300 Quarropas St, White Plains, NY 10601. This is more convenient for Westchester residents than traveling to Manhattan.
 
 Key Information
 
@@ -4238,6 +4624,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Rebuilding Credit After Bankruptcy in New York - Timeline and Steps
@@ -4251,6 +4639,8 @@ Home›Credit After Bankruptcy
 Rebuilding Credit After Bankruptcy in New York
 
 Bankruptcy is not the end of your financial life - it is the beginning of a fresh start. Most people see significant credit improvement within 12-24 months of their discharge by following a disciplined rebuilding plan.
+
+Chapter 7 bankruptcy stays on your credit report for 10 years from the filing date. Chapter 13 stays for 7 years from the filing date. However, the impact on your credit score diminishes significantly after 2-3 years if you actively rebuild.
 
 Credit Recovery Timeline
 
@@ -4405,15 +4795,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4438,6 +4846,8 @@ Discharging Credit Card Debt in New York Bankruptcy
 Credit card debt is one of the most common reasons people file bankruptcy. It is generally dischargeable, but there are important exceptions involving recent charges and fraud.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Credit card debt is unsecured debt and is generally dischargeable in both Chapter 7 and Chapter 13 bankruptcy. In Chapter 7, the debt is eliminated in 3-4 months. In Chapter 13, you pay a portion over 3-5 years and the remainder is discharged.
 
 Chapter 7 vs Chapter 13 for Credit Card Debt
 
@@ -4471,7 +4881,7 @@ Exceptions: When Credit Card Debt Is NOT Dischargeable
 
 Recent Luxury Purchases (90-Day Rule)
 
-Under 11 U.S.C. section 523(a)(2)(C), charges for luxury goods or services to a single creditor totaling more than $800 within 90 days of filing are presumed nondischargeable. "Luxury" generally means anything that is not reasonably necessary for support - groceries and utilities are fine, but a new TV or vacation charges could be challenged.
+Under 11 U.S.C. section 523(a)(2)(C), charges for luxury goods or services to a single creditor totaling more than $900 within 90 days of filing are presumed nondischargeable. "Luxury" generally means anything that is not reasonably necessary for support - groceries and utilities are fine, but a new TV or vacation charges could be challenged.
 
 Recent Cash Advances (70-Day Rule)
 
@@ -4559,15 +4969,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4590,6 +5018,8 @@ Home›Using Credit Cards Before Filing Bankruptcy
 Using Credit Cards Before Filing Bankruptcy
 
 A free guide for New York residents considering bankruptcy. Filed in S.D.N.Y..
+
+Using credit cards when you know you will file bankruptcy can be considered fraud. The Bankruptcy Code presumes fraud for luxury goods purchases over $725 within 90 days and cash advances over $1,000 within 70 days of filing. Best practice: stop using all credit cards immediately once you decide to
 
 What You Need to Know
 
@@ -4634,13 +5064,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4664,11 +5114,13 @@ Types of Debt in Bankruptcy
 
 Not all debts are treated equally in bankruptcy. Understanding which debts can be discharged (eliminated) and which survive is critical to deciding whether bankruptcy is right for you.
 
+Most unsecured debts can be discharged including credit card debt, medical bills, personal loans, payday loans, old utility bills, deficiency balances, and certain older tax debts. These debts are eliminated in Chapter 7 (3-4 months) or paid partially in Chapter 13 (3-5 years).
+
 Dischargeable Debts (Can Be Eliminated)
 
 Debt TypeDischargeable?Notes
 
-Credit card debtYesFully dischargeable. Recent luxury purchases over $800 within 90 days may be challenged.
+Credit card debtYesFully dischargeable. Recent luxury purchases over $900 within 90 days may be challenged.
 
 Medical billsYesFully dischargeable. No minimum or maximum.
 
@@ -4807,15 +5259,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4840,6 +5310,8 @@ Bankruptcy Disqualifications in New York
 Not everyone can file every chapter of bankruptcy. Here are the barriers to filing and how they apply to New York residents.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+You may be disqualified from Chapter 7 if: you fail the means test (income too high with insufficient deductions), you received a Chapter 7 discharge within the last 8 years, you received a Chapter 13 discharge within the last 6 years, you had a case dismissed for abuse within 180 days, you have not completed credit counseling, or you are a stockbroker or commodity broker.
 
 Discharge Waiting Periods
 
@@ -4934,15 +5406,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4965,6 +5455,8 @@ Home›Find Your Bankruptcy District - New York Bankruptcy Guide›Find Your Ban
 Find Your Bankruptcy District
 
 Enter your zip code to find which federal bankruptcy court handles cases in your area of the New York City metro.
+
+Manhattan is in the Southern District of New York (S.D.N.Y.). The courthouse is at One Bowling Green, New York, NY 10004. S.D.N.Y. also covers the Bronx, Westchester, Rockland, Putnam, Orange, Dutchess, and Sullivan counties. Zip codes 100xx-104xx, 105xx-109xx.
 
 Zip Code Lookup
 
@@ -5061,15 +5553,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5094,6 +5604,8 @@ Divorce and Bankruptcy in New York
 Divorce and bankruptcy often happen together. The order in which you file matters, and certain debts from divorce cannot be discharged. Here is how these two processes interact for New York residents.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+It depends on your situation. Filing before divorce can simplify property division by eliminating joint debts, and you can file jointly to save on fees. Filing after divorce may be better if you need to use single-filer income limits for the means test or if your divorce settlement assigns debts that you want to discharge. A New York bankruptcy attorney can help you weigh the timing.
 
 Filing Order: Bankruptcy Before or After Divorce?
 
@@ -5219,15 +5731,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5252,6 +5782,8 @@ Emergency Bankruptcy Filing in New York
 When a foreclosure sale, wage garnishment, or vehicle repossession is hours or days away, an emergency bankruptcy filing can stop it immediately. Here is how it works in the Southern District of New York.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+An emergency bankruptcy filing (also called a bare-bones or skeleton petition) is when you file just the petition and a few required documents to get an immediate case number and activate the automatic stay. You then have 14 days to file your remaining schedules and documents. This is used when you need to stop a foreclosure sale, repossession, or wage garnishment immediately.
 
 How Emergency Filing Works
 
@@ -5395,15 +5927,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5426,6 +5976,8 @@ Home›Bankruptcy and Employment: Can You Get Fired?
 Bankruptcy and Employment: Can You Get Fired?
 
 A free guide for New York residents. Filed in S.D.N.Y..
+
+Federal law (11 U.S.C. Section 525(a)) prohibits government employers from terminating, refusing to hire, or discriminating against you because of a bankruptcy filing. For private employers, the protection is more limited - they generally cannot fire you for filing, but some courts allow them to co
 
 What You Need to Know
 
@@ -5471,13 +6023,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5501,11 +6073,13 @@ Can I Keep My Engagement Ring in Bankruptcy?
 
 A free guide for New York residents considering bankruptcy. Filed in S.D.N.Y..
 
+Whether you can keep your engagement ring depends on your state's jewelry exemption. Exemption amounts vary wildly - from $150 in Arizona to unlimited in Texas. If your ring's value exceeds the exemption, the trustee could potentially sell it (though this is rare in practice for modest rings). Many
+
 What You Need to Know
 
 Whether you can keep your engagement ring depends on your state's jewelry exemption. Exemption amounts vary wildly - from $150 in Arizona to unlimited in Texas. If your ring's value exceeds the exemption, the trustee could potentially sell it (though this is rare in practice for modest rings). Many people protect rings using wildcard exemptions.
 
-In New York: NY state: $1,000 jewelry. Federal alternative: $1,875 + wildcard.
+In New York: NY state: $1,000 jewelry. Federal alternative: $2,125 + wildcard.
 
 Filed in S.D.N.Y.. Courthouse: One Bowling Green, Manhattan.
 
@@ -5546,13 +6120,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5575,6 +6169,8 @@ Home›Can Bankruptcy Stop an Eviction?
 Can Bankruptcy Stop an Eviction?
 
 A free guide for New York residents considering bankruptcy. Filed in S.D.N.Y..
+
+The automatic stay under Section 362 temporarily halts most eviction proceedings. However, Section 362(b)(22) limits protection if your landlord already has a judgment for possession. In Chapter 13, you may be able to cure rent arrears through your plan. Timing matters - file before the judgment if
 
 What You Need to Know
 
@@ -5619,13 +6215,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5648,6 +6264,8 @@ Home›Exemptions
 New York Bankruptcy Exemptions
 
 Exemptions determine what property you get to keep when you file bankruptcy. Understanding them is critical - they can mean the difference between keeping and losing your home, car, and savings.
+
+New York's homestead exemption protects up to $179,975 - $215,550 (varies by county) of equity in your primary residence. Equity is the difference between your home's value and what you owe on the mortgage.
 
 What Are Exemptions?
 
@@ -5728,15 +6346,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5748,7 +6384,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## New York Bankruptcy FAQ - 15 Common Questions Answered
+## New York Bankruptcy FAQ [2026]: 15 Questions on Filing in SDNY, EDNY, NDNY, and WDNY
 Source: https://newyorkbankruptcy.org/faq.html
 
 New York Bankruptcy Guide
@@ -5759,6 +6395,8 @@ Home›Faq
 Frequently Asked Questions
 
 Answers to the 15 most common questions from New York residents considering bankruptcy.
+
+Chapter 7 filing fee is $338 and Chapter 13 is $313. Attorney fees typically range from $1,500 - $3,500 for Chapter 7 and $3,500 - $6,000 for Chapter 13. Credit counseling costs about $25-50 total.
 
 Cost and Eligibility
 
@@ -5863,15 +6501,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5894,6 +6550,8 @@ Home›How to Find Out if Someone Filed Bankruptcy
 How to Find Out if Someone Filed Bankruptcy
 
 A free guide for New York residents considering bankruptcy. Filed in S.D.N.Y..
+
+All bankruptcy filings are public record. Search PACER (Public Access to Court Electronic Records) at pacer.gov for $0.10 per page. Free alternatives include RECAP (courtlistener.com/recap/) which mirrors many PACER documents. You can also call the bankruptcy court clerk directly or visit in person.
 
 What You Need to Know
 
@@ -5938,13 +6596,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5967,6 +6645,8 @@ Home›Foreclosure
 Foreclosure and Bankruptcy in New York
 
 New York uses judicial foreclosure, which typically takes 12-18 months. Filing bankruptcy stops foreclosure immediately and can give you time to catch up on payments or negotiate alternatives.
+
+Yes. Filing bankruptcy immediately stops foreclosure through the automatic stay under 11 U.S.C. section 362. This applies at any stage of the foreclosure process, including after a judgment has been entered but before the sale. Chapter 13 lets you catch up on missed payments over 3-5 years while keeping your home.
 
 New York Foreclosure Process
 
@@ -6100,15 +6780,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6133,6 +6831,8 @@ Bankruptcy Glossary
 Plain-English definitions of bankruptcy terms with New York-specific context where relevant.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The automatic stay is a federal court order that takes effect the instant you file bankruptcy. It stops most collection actions including wage garnishment, foreclosure, repossession, lawsuits, and creditor calls. See 11 U.S.C. section 362.
 
 A-D
 
@@ -6200,7 +6900,7 @@ Transferring property for less than fair value to keep it from creditors. The tr
 
 Homestead Exemption
 
-Protects equity in your primary residence. New York: $179,975--$215,550 by county. Federal: $27,900 (individual).
+Protects equity in your primary residence. New York: $179,975--$215,550 by county. Federal: $31,575 (individual).
 
 Lien
 
@@ -6299,15 +6999,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6332,6 +7050,8 @@ Bankruptcy Income Limits in New York
 Income determines which chapter you qualify for and how much you pay. Here are the current thresholds for New York residents filing in the S.D.N.Y.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+New York's median income for a 1-person household is $66,973; 2 persons $82,282; 3 persons $97,878; 4 persons $119,164. If your household income is below the median, you automatically qualify for Chapter 7. If above, you may still qualify after the means test deducts allowed expenses.
 
 New York Median Income (Means Test)
 
@@ -6430,15 +7150,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6450,13 +7188,13 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## New York Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
+## New York Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
 Source: https://newyorkbankruptcy.org/
 
 Skip to main content
 
 New York Bankruptcy Guide
-HomeChapter 7Chapter 13ExemptionsCostCountiesFAQOBP Rule 9037 PII Scanner
+HomeChapter 7Chapter 13ExemptionsCostCountiesFAQOBP Rule 9037 Compliance Guide
 
 New York Bankruptcy - Your Complete Filing Guide for 2026
 
@@ -6480,6 +7218,8 @@ Discharge Rate
 $338
 
 Chapter 7 Filing Fee
+
+Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in New York typically range from $1,500 - $3,500 for Chapter 7 and $3,500 - $6,000 for Chapter 13. You will also need to pay for required credit counseling courses, usually $25-$50 total.
 
 Chapter 7 vs. Chapter 13: Which Is Right for You?
 
@@ -6652,19 +7392,33 @@ Avoid high-volume firms with poor outcomes
 
 bankruptcymill.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
 
-Privacy Policy
+♥ Donate
 
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 Have a Question?
 
@@ -6750,6 +7504,66 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Bank Account
+Buy Car Chapter 13
+Buying A House
+Car Lease
+Chapter 13 Payments
+Credit Card Debt
+Credit Cards Before Filing
+Disqualifications
+Divorce And Bankruptcy
+Emergency Bankruptcy
+Employment
+Engagement Ring
+Eviction
+Find Bankruptcy Filing
+Glossary
+Income Limits
+Index
+Judgments
+Medical Debt Only
+Payday Loans
+Reaffirmation Regret
+Renting After Bankruptcy
+Repo Credit Report
+Resources
+Retirement Accounts
+Second Mortgage
+Security Clearance
+Small Business
+Stop Paying Bills
+Surrender Car
+Tax Refund Chapter13
+Timeshare
+Travel Chapter 13
+
 ---
 
 ## Judgments and Bankruptcy in New York
@@ -6765,6 +7579,8 @@ Judgments and Bankruptcy in New York
 A creditor judgment can lead to wage garnishment, bank levies, and property liens. Bankruptcy can discharge the debt and, in many cases, remove the lien.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Generally yes. If the underlying debt is dischargeable (credit card, medical bill, personal loan), then the judgment based on that debt is also dischargeable. However, judgments based on nondischargeable debts (fraud, DUI, child support) survive bankruptcy.
 
 Discharging the Judgment Debt
 
@@ -6843,15 +7659,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6875,6 +7709,8 @@ Can You Keep Your Car in Bankruptcy in New York?
 
 In most cases, yes. New York's vehicle exemption and bankruptcy protections let the majority of filers keep their vehicles. Here is how it works in both Chapter 7 and Chapter 13.
 
+In most cases, yes. New York allows a vehicle exemption of $4,825. If your car equity (fair market value minus loan balance) is below $4,825, you can keep it in Chapter 7. In Chapter 13, you can keep your car and catch up on missed payments through your repayment plan.
+
 New York Vehicle Exemption: $4,825
 
 New York's vehicle exemption under CPLR 5205(h) protects up to $4,825 of equity in one motor vehicle. Equity is your car's fair market value minus the loan balance.
@@ -6891,7 +7727,7 @@ SystemVehicle ExemptionWildcard Available?
 
 New York State$4,825$1,150 general wildcard
 
-Federal (522(d))$4,450Up to $14,875 (unused homestead wildcard)
+Federal (522(d))$5,025Up to $17,475 (unused homestead wildcard)
 
 If you are a renter (no homestead to protect), the federal exemptions may be better because the unused portion of the homestead exemption can be applied as a wildcard to your vehicle or other property.
 
@@ -6984,15 +7820,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7015,6 +7869,8 @@ Home›Keep Your House
 Can You Keep Your House in Bankruptcy in New York?
 
 New York's homestead exemption protects $179,975 to $215,550 of equity in your home, depending on the county. Most homeowners keep their homes in bankruptcy - especially in Chapter 13.
+
+In most cases, yes. New York's homestead exemption protects $179,975 to $215,550 of equity in your primary residence, depending on the county. If your equity is within the exemption, you keep your home in Chapter 7. In Chapter 13, you can keep your home while catching up on missed mortgage payments through a 3-5 year plan.
 
 New York Homestead Exemption by County
 
@@ -7076,7 +7932,7 @@ Better for renters or minimal home equity
 
 Vehicle: $5,025
 
-Wildcard: up to $14,875 (unused homestead)
+Wildcard: up to $17,475 (unused homestead)
 
 If you own a home, state exemptions almost always provide better protection. If you rent, consider federal exemptions for the larger wildcard. Full exemption comparison.
 
@@ -7145,15 +8001,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7165,7 +8039,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Free Legal Help for Bankruptcy in New York
+## Free Legal Aid for New York Bankruptcy [2026]: Legal Services NYC, Volunteer Lawyers Project, Pro Bono Clinics
 Source: https://newyorkbankruptcy.org/legal-aid.html
 
 New York Bankruptcy Guide
@@ -7176,6 +8050,8 @@ Home›Free Legal Help for Bankruptcy in New York | New York Bankruptcy Guide›
 Free Legal Help for Bankruptcy in New York City
 
 If you are struggling with debt but cannot afford a bankruptcy attorney, these New York City organizations may be able to help - for free or at reduced cost.
+
+Yes. Several organizations in New York City provide free legal assistance for bankruptcy cases, including the Legal Aid Society, NYLAG, and Legal Services NYC. Eligibility is generally based on income, typically at or below 125-200% of the federal poverty level.
 
 New York City Legal Aid Organizations
 
@@ -7289,13 +8165,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project. GitHub
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7320,6 +8216,8 @@ New York City Means Test: Do You Qualify for Chapter 7?
 The means test determines whether you can file Chapter 7 bankruptcy. Your income is compared to the median income in New York for your household size. New York has among the highest median incomes in the nation, which means more residents qualify.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The means test is a calculation required for Chapter 7 bankruptcy that compares your income to the median income in your state. If your income is below the median for your household size, you automatically qualify for Chapter 7. If above, you must pass a second calculation that factors in your allowed expenses.
 
 What Is the Means Test?
 
@@ -7395,7 +8293,7 @@ If your income exceeds the median, you proceed to Part 2. You deduct IRS-approve
 
 5Calculate disposable income
 
-Subtract your total allowed deductions from your CMI. Multiply by 60 (representing a 5-year Chapter 13 plan). If the result is less than $9,075, you pass. If more than $15,150, you fail. Between those amounts, further analysis is needed.
+Subtract your total allowed deductions from your CMI. Multiply by 60 (representing a 5-year Chapter 13 plan). If the result is less than $10,275, you pass. If more than $17,150, you fail. Between those amounts, further analysis is needed.
 
 6File the appropriate form
 
@@ -7497,15 +8395,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7528,6 +8444,8 @@ Home›Can I File Bankruptcy on Medical Debt Only?
 Can I File Bankruptcy on Medical Debt Only?
 
 A free guide for New York residents. Filed in S.D.N.Y..
+
+You cannot selectively file bankruptcy on just one type of debt - all debts must be listed in your petition. However, medical debt IS fully dischargeable in both Chapter 7 and Chapter 13. If medical bills are your primary burden, Chapter 7 may eliminate them entirely in 3-4 months. Before filing, c
 
 What You Need to Know
 
@@ -7573,13 +8491,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7602,6 +8540,8 @@ Home›Medical Debt
 Medical Debt and Bankruptcy in New York
 
 Medical debt is the leading cause of bankruptcy filings in America. Both Chapter 7 and Chapter 13 can eliminate medical bills entirely - no matter how large the balance.
+
+Yes. Medical debt is unsecured debt that is fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy. There is no minimum or maximum amount. Whether you owe $5,000 or $500,000 in medical bills, bankruptcy can eliminate it.
 
 Medical Debt Is Fully Dischargeable
 
@@ -7734,15 +8674,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7767,6 +8725,8 @@ Payday Loans and Bankruptcy in New York
 New York bans payday lending, but many residents still carry online payday loan debt. Bankruptcy can discharge these loans, with some important caveats.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Payday loans are unsecured debt and are generally dischargeable in both Chapter 7 and Chapter 13 bankruptcy. However, if a payday lender claims you provided false information on the loan application or never intended to repay, they could challenge dischargeability under 11 U.S.C. section 523(a)(2).
 
 New York's Payday Lending Ban
 
@@ -7849,15 +8809,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7880,6 +8858,8 @@ Home›Can I Undo a Reaffirmation Agreement?
 Can I Undo a Reaffirmation Agreement?
 
 A free guide for New York residents. Filed in S.D.N.Y..
+
+You have 60 days after the reaffirmation agreement is filed with the court to rescind (cancel) it. After 60 days, your options are limited. You can voluntarily surrender the property, refinance the loan, or negotiate with the creditor. If the reaffirmation was not properly disclosed or you were not
 
 What You Need to Know
 
@@ -7925,13 +8905,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7954,6 +8954,8 @@ Home›Renting an Apartment After Bankruptcy
 Renting an Apartment After Bankruptcy
 
 A free guide for New York residents. Filed in S.D.N.Y..
+
+Finding an apartment after bankruptcy is possible but requires strategy. Most large property management companies run credit checks and will see the bankruptcy. Smaller landlords and individual owners are often more flexible. Tips: offer a larger security deposit, provide references from previous la
 
 What You Need to Know
 
@@ -7999,13 +9001,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8028,6 +9050,8 @@ Home›Can Bankruptcy Remove a Repossession From Your Credit?
 Can Bankruptcy Remove a Repossession From Your Credit?
 
 A free guide for New York residents considering bankruptcy. Filed in S.D.N.Y..
+
+Bankruptcy does not remove a repossession entry from your credit report. However, filing bankruptcy discharges the deficiency balance - the amount you still owe after the repo and sale. Your credit report should show the balance as $0 after discharge. If it still shows a balance, dispute it with th
 
 What You Need to Know
 
@@ -8072,13 +9096,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8101,6 +9145,8 @@ Home›Repossession
 Repossession and Bankruptcy in New York
 
 If your car is about to be repossessed - or already has been - bankruptcy may be able to stop the process and even get it back. Time is critical.
+
+Yes. Filing bankruptcy triggers the automatic stay, which immediately stops repossession efforts. If the lender has already repossessed the vehicle but has not yet sold it, bankruptcy may force them to return it. Time is critical - file as soon as possible after repossession.
 
 Before Repossession: Stop It with Bankruptcy
 
@@ -8218,15 +9264,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8249,6 +9313,8 @@ Home›Resources
 New York Bankruptcy Resources
 
 Courts, legal aid organizations, credit counseling agencies, and free educational tools to help you navigate the bankruptcy process.
+
+The Southern District of New York bankruptcy court is at 300 Quarropas St, White Plains, NY 10601. Phone: (212) 668-2870. Website: www.nysb.uscourts.gov.
 
 Bankruptcy Court
 
@@ -8373,15 +9439,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8404,6 +9488,8 @@ Home›Can I Keep My 401k and Retirement in Bankruptcy?
 Can I Keep My 401k and Retirement in Bankruptcy?
 
 A free guide for New York residents. Filed in S.D.N.Y..
+
+Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,711,975 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA
 
 What You Need to Know
 
@@ -8449,13 +9535,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8480,6 +9586,8 @@ Second Mortgages and Bankruptcy in New York
 If your home is worth less than what you owe on your first mortgage, Chapter 13 can strip off the second mortgage entirely - turning it into dischargeable unsecured debt.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes, in Chapter 13. If your home's fair market value is less than what you owe on the first mortgage, the second mortgage is completely unsecured and can be stripped off (treated as unsecured debt). This is called lien stripping. It is available in Chapter 13 but NOT in Chapter 7 (per the Supreme Court's Dewsnup v. Timm decision).
 
 Lien Stripping in Chapter 13
 
@@ -8566,15 +9674,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8597,6 +9723,8 @@ Home›Bankruptcy and Security Clearance
 Bankruptcy and Security Clearance
 
 A free guide for New York residents. Filed in S.D.N.Y..
+
+Filing bankruptcy does NOT automatically revoke your security clearance. In fact, the Department of Defense adjudicative guidelines consider financial irresponsibility a greater risk than filing bankruptcy. Filing shows you are taking responsible steps to address your debt. Many clearance holders fi
 
 What You Need to Know
 
@@ -8642,13 +9770,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8672,6 +9820,8 @@ Small Business Bankruptcy in New York
 
 New York small businesses have several bankruptcy options depending on whether the goal is to close the business or reorganize and continue operating. Subchapter V has made reorganization faster and more affordable.
 
+Small businesses in New York can file Chapter 7 (liquidation to close the business), Chapter 11 (reorganization to continue operating), or Subchapter V of Chapter 11 (streamlined reorganization for businesses with no more than $3,424,000 in noncontingent, liquidated debt). Sole proprietors may also consider Chapter 13 for businesses with personal liability.
+
 Bankruptcy Options for Small Businesses
 
 OptionPurposeDebt LimitFiling Fee
@@ -8682,7 +9832,7 @@ Chapter 11ReorganizeNo limit$1,738
 
 Subchapter VStreamlined reorganization$3,424,000$1,738
 
-Chapter 13 (sole proprietors)Personal + business debtsNo limit (post-2024)$313
+Chapter 13 (sole proprietors)Personal + business debtsUnder $526,700 unsecured / $1,580,125 secured$313
 
 Subchapter V - Small Business Reorganization
 
@@ -8752,7 +9902,7 @@ Yes, in Chapter 11 and Subchapter V. The business operates as a debtor-in-posses
 
 How much does small business bankruptcy cost?
 
-Filing fees: Chapter 7 ($338), Chapter 11 ($1,738), Subchapter V ($571). Attorney fees for Chapter 11 in New York typically range from $15,000-$50,000+. Subchapter V cases generally cost less. Cost breakdown.
+Filing fees: Chapter 7 ($338), Chapter 11 ($1,738), Subchapter V ($1,738). Attorney fees for Chapter 11 in New York typically range from $15,000-$50,000+. Subchapter V cases generally cost less. Cost breakdown.
 
 Check Your Eligibility
 
@@ -8793,15 +9943,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8813,7 +9981,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## New York Bankruptcy Statistics - 25,112 Cases Analyzed
+## New York Bankruptcy Statistics [2026]: 25,112 Cases Analyzed Across SDNY, EDNY, NDNY, and WDNY
 Source: https://newyorkbankruptcy.org/statistics.html
 
 New York Bankruptcy Guide
@@ -8848,6 +10016,8 @@ Est. 1328(f) Violations
 18.9%
 
 Pro Se Rate
+
+Between 2008 and 2024, the Southern District of New York saw 25,112 Chapter 13 filings.
 
 What These Numbers Mean for You
 
@@ -8934,15 +10104,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8965,6 +10153,8 @@ Home›What Bills Can I Stop Paying Before Filing?
 What Bills Can I Stop Paying Before Filing?
 
 A free guide for New York residents considering bankruptcy. Filed in S.D.N.Y..
+
+Before filing bankruptcy, you can strategically stop paying unsecured debts like credit cards and medical bills. Keep paying your mortgage, car payment, utilities, child support, and alimony. Be aware of the 90-day preference period - large payments to specific creditors before filing can be clawed
 
 What You Need to Know
 
@@ -9009,13 +10199,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9038,6 +10248,8 @@ Home›Student Loans
 Student Loans and Bankruptcy in New York
 
 Student loans are difficult but not impossible to discharge in bankruptcy. Even when discharge is unavailable, bankruptcy can eliminate other debts and make student loan payments manageable.
+
+Student loans can be discharged in bankruptcy if you can prove undue hardship through an adversary proceeding. The Second Circuit (which covers New York) uses the Brunner test, requiring you to show: (1) you cannot maintain a minimal standard of living while repaying, (2) your financial situation is likely to persist, and (3) you have made good faith efforts to repay.
 
 The Brunner Test (Second Circuit)
 
@@ -9166,15 +10378,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9197,6 +10427,8 @@ Home›Surrendering Your Car in Bankruptcy
 Surrendering Your Car in Bankruptcy
 
 A free guide for New York residents. Filed in S.D.N.Y..
+
+Voluntary surrender means you return the vehicle to the lender. In Chapter 7, the remaining deficiency balance (what you owe minus the car's value) is discharged. You will not owe anything after discharge. The process: notify your attorney, the lender arranges pickup, you remove personal belongings.
 
 What You Need to Know
 
@@ -9242,13 +10474,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9271,6 +10523,8 @@ Home›Tax Debt
 Tax Debt and Bankruptcy in New York
 
 Certain income tax debts - both federal IRS and New York State - can be discharged in bankruptcy if they meet specific age and filing requirements. Here are the rules.
+
+Yes, certain income tax debts can be discharged in bankruptcy if they meet all of the following criteria: the tax return was due more than 3 years ago, the return was filed more than 2 years ago, the tax was assessed more than 240 days ago, the return was not fraudulent, and you did not willfully evade the tax.
 
 The Five Rules for Tax Discharge
 
@@ -9394,15 +10648,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9425,6 +10697,8 @@ Home›Will the Chapter 13 Trustee Take My Tax Refund?
 Will the Chapter 13 Trustee Take My Tax Refund?
 
 A free guide for New York residents. Filed in S.D.N.Y..
+
+In most districts, the Chapter 13 trustee requires you to turn over tax refunds above a certain threshold (typically $2,000-$3,000, varies by trustee). Your plan may include specific provisions about tax refunds. You can request a plan modification to retain your refund for a necessary expense. File
 
 What You Need to Know
 
@@ -9470,13 +10744,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9499,6 +10793,8 @@ Home›Timeline
 Bankruptcy Timeline in New York
 
 A step-by-step timeline for both Chapter 7 (3-4 months) and Chapter 13 (3-5 years) bankruptcy in the Southern District of New York.
+
+Chapter 7 typically takes 3-4 months from filing to discharge. The 341 meeting of creditors occurs about 30 days after filing. The debtor education course must be completed within 60 days. Discharge is usually entered about 60-90 days after the 341 meeting.
 
 Chapter 7 Timeline
 
@@ -9649,15 +10945,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9681,6 +10995,8 @@ Timeshares and Bankruptcy
 
 A free guide for New York residents considering bankruptcy. Filed in S.D.N.Y..
 
+You can surrender an unwanted timeshare in Chapter 7 bankruptcy. The remaining balance on the timeshare loan is dischargeable. However, HOA maintenance fees that come due after filing may not be dischargeable. Some timeshare companies aggressively pursue post-discharge fees - know your rights under
+
 What You Need to Know
 
 You can surrender an unwanted timeshare in Chapter 7 bankruptcy. The remaining balance on the timeshare loan is dischargeable. However, HOA maintenance fees that come due after filing may not be dischargeable. Some timeshare companies aggressively pursue post-discharge fees - know your rights under the discharge injunction.
@@ -9724,13 +11040,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9753,6 +11089,8 @@ Home›Can I Travel During Chapter 13?
 Can I Travel During Chapter 13?
 
 A free guide for New York residents considering bankruptcy. Filed in S.D.N.Y..
+
+There is no legal restriction on domestic travel during Chapter 13. For international travel, some trustees ask to be notified for extended trips. Luxury vacations may draw scrutiny if the trustee believes you have disposable income that should go to creditors. Budget travel and visiting family are
 
 What You Need to Know
 
@@ -9797,13 +11135,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9826,6 +11184,8 @@ Home›Wage Garnishment
 Stop Wage Garnishment in New York
 
 New York limits garnishment to 10% of gross wages or 25% of disposable income (whichever is less). Filing bankruptcy stops it immediately. Here is how.
+
+New York limits wage garnishment to the lesser of 10% of your gross wages or 25% of your disposable earnings. If you earn minimum wage or less than 30 times the minimum wage per week, your wages cannot be garnished at all. New York provides stronger wage protection than most states.
 
 New York Wage Garnishment Rules
 
@@ -9948,15 +11308,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9979,6 +11357,8 @@ Home›What To Expect
 What to Expect When Filing Bankruptcy
 
 The bankruptcy process can feel overwhelming, but it follows a clear, predictable path. Here is exactly what happens from start to finish.
+
+The 341 meeting is a brief hearing where the bankruptcy trustee asks you questions under oath about your financial situation. You need photo ID and proof of Social Security number. Most meetings last only 5-10 minutes. Creditors may attend but rarely do.
 
 Chapter 7 Timeline
 
@@ -10137,15 +11517,33 @@ New York Exemptions
 
 Bankruptcy Cost in New York
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10213,7 +11611,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -10223,6 +11621,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About newyorkbankruptcy.org
+Source: https://newyorkbankruptcy.org/about.html
+
+newyorkbankruptcy.org
+
+Home
+About
+Privacy
+
+About newyorkbankruptcy.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+newyorkbankruptcy.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.

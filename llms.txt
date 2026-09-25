@@ -1,7 +1,7 @@
-# New York Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# New York Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
-> Free New York bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in y...
+> Free New York bankruptcy guide for 2026.
 
 ## About
 newyorkbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
@@ -31,13 +31,13 @@ newyorkbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Bankruptcy in White Plains, NY - New York Bankruptcy Guide: https://newyorkbankruptcy.org/cities/white-plains.html
 - Bankruptcy in Yonkers, NY - New York Bankruptcy Guide: https://newyorkbankruptcy.org/cities/yonkers.html
 - Converting Between Bankruptcy Chapters in New York: https://newyorkbankruptcy.org/converting-chapters.html
-- How Much Does Bankruptcy Cost in New York? - Filing Fees, Attorney Fees: https://newyorkbankruptcy.org/cost.html
+- New York Bankruptcy Cost [2026]: $338 Chapter 7 Filing Fee, NYC Attorney Fees, and Fee Waivers: https://newyorkbankruptcy.org/cost.html
 - Bankruptcy by County - New York Metro Area: https://newyorkbankruptcy.org/counties.html
-- Bankruptcy in Bronx County - New York Bankruptcy Guide: https://newyorkbankruptcy.org/counties/bronx-county.html
-- Bankruptcy in Kings County (Brooklyn) - New York Bankruptcy Guide: https://newyorkbankruptcy.org/counties/kings-county-brooklyn.html
-- Bankruptcy in New York County (Manhattan) - New York Bankruptcy Guide: https://newyorkbankruptcy.org/counties/new-york-county-manhattan.html
-- Bankruptcy in Queens County - New York Bankruptcy Guide: https://newyorkbankruptcy.org/counties/queens-county.html
-- Bankruptcy in Westchester County - New York Bankruptcy Guide: https://newyorkbankruptcy.org/counties/westchester-county.html
+- Bronx County Bankruptcy [2026]: SDNY Filing Procedures, NY Exemptions, and Local 341 Meeting: https://newyorkbankruptcy.org/counties/bronx-county.html
+- Kings County (Brooklyn) Bankruptcy [2026]: EDNY Court, NY Exemptions, and Local Filing Procedures: https://newyorkbankruptcy.org/counties/kings-county-brooklyn.html
+- New York County (Manhattan) Bankruptcy [2026]: SDNY Court, Downstate Homestead, Local Procedures: https://newyorkbankruptcy.org/counties/new-york-county-manhattan.html
+- Queens County Bankruptcy [2026]: EDNY Filing Procedures, NY Exemptions, Local 341 Meeting: https://newyorkbankruptcy.org/counties/queens-county.html
+- Westchester County Bankruptcy [2026]: SDNY White Plains Division, NY Exemptions, Local Procedures: https://newyorkbankruptcy.org/counties/westchester-county.html
 - Rebuilding Credit After Bankruptcy in New York - Timeline and Steps: https://newyorkbankruptcy.org/credit-after-bankruptcy.html
 - Discharging Credit Card Debt in New York Bankruptcy: https://newyorkbankruptcy.org/credit-card-debt.html
 - Using Credit Cards Before Filing Bankruptcy: https://newyorkbankruptcy.org/credit-cards-before-filing.html
@@ -50,16 +50,16 @@ newyorkbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Can I Keep My Engagement Ring in Bankruptcy?: https://newyorkbankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction?: https://newyorkbankruptcy.org/eviction.html
 - New York Bankruptcy Exemptions - What You Can Keep: https://newyorkbankruptcy.org/exemptions.html
-- New York Bankruptcy FAQ - 15 Common Questions Answered: https://newyorkbankruptcy.org/faq.html
+- New York Bankruptcy FAQ [2026]: 15 Questions on Filing in SDNY, EDNY, NDNY, and WDNY: https://newyorkbankruptcy.org/faq.html
 - How to Find Out if Someone Filed Bankruptcy: https://newyorkbankruptcy.org/find-bankruptcy-filing.html
 - Foreclosure and Bankruptcy in New York - Stop Foreclosure, Save Your Home: https://newyorkbankruptcy.org/foreclosure.html
 - Bankruptcy Glossary - New York Terms: https://newyorkbankruptcy.org/glossary.html
 - Bankruptcy Income Limits in New York: https://newyorkbankruptcy.org/income-limits.html
-- New York Bankruptcy - Chapter 7 & 13 Filing Guide: https://newyorkbankruptcy.org/
+- New York Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://newyorkbankruptcy.org/
 - Judgments and Bankruptcy in New York: https://newyorkbankruptcy.org/judgments.html
 - Keep Your Car in Bankruptcy in New York - $4,825 Vehicle Exemption: https://newyorkbankruptcy.org/keep-your-car.html
 - Keep Your House in Bankruptcy in New York - Homestead Exemption $179,975-$215,550: https://newyorkbankruptcy.org/keep-your-house.html
-- Free Legal Help for Bankruptcy in New York: https://newyorkbankruptcy.org/legal-aid.html
+- Free Legal Aid for New York Bankruptcy [2026]: Legal Services NYC, Volunteer Lawyers Project, Pro Bono Clinics: https://newyorkbankruptcy.org/legal-aid.html
 - New York City Means Test: Do You Qualify for Chapter 7?: https://newyorkbankruptcy.org/means-test.html
 - Can I File Bankruptcy on Medical Debt Only?: https://newyorkbankruptcy.org/medical-debt-only.html
 - Medical Debt and Bankruptcy in New York - Eliminate Hospital Bills: https://newyorkbankruptcy.org/medical-debt.html
@@ -73,7 +73,7 @@ newyorkbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Second Mortgages and Bankruptcy in New York: https://newyorkbankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance: https://newyorkbankruptcy.org/security-clearance.html
 - Small Business Bankruptcy in New York - Chapter 7, 11, and Subchapter V: https://newyorkbankruptcy.org/small-business.html
-- New York Bankruptcy Statistics - 25,112 Cases Analyzed: https://newyorkbankruptcy.org/statistics.html
+- New York Bankruptcy Statistics [2026]: 25,112 Cases Analyzed Across SDNY, EDNY, NDNY, and WDNY: https://newyorkbankruptcy.org/statistics.html
 - What Bills Can I Stop Paying Before Filing?: https://newyorkbankruptcy.org/stop-paying-bills.html
 - Student Loans and Bankruptcy in New York - Hardship Discharge Options: https://newyorkbankruptcy.org/student-loans.html
 - Surrendering Your Car in Bankruptcy: https://newyorkbankruptcy.org/surrender-car.html
@@ -85,6 +85,7 @@ newyorkbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Stop Wage Garnishment in New York - Bankruptcy Protection: https://newyorkbankruptcy.org/wage-garnishment.html
 - What to Expect When Filing Bankruptcy - Timeline, 341 Meeting, Discharge: https://newyorkbankruptcy.org/what-to-expect.html
 - Privacy Policy: https://newyorkbankruptcy.org/privacy.html
+- About newyorkbankruptcy.org: https://newyorkbankruptcy.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
